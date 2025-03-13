@@ -1,4 +1,4 @@
-team_id,fullname,home_venue,city,state,logo,Conference,Division,bbreference_abbreviation
+team_id,team_name,home_venue,city,state,logo,Conference,Division,bbreference_abbreviation
 ATL,Atlanta Hawks,State Farm Arena,Atlanta,Georgia,https://content.sportslogos.net/logos/6/220/full/8190_atlanta_hawks-primary-2021.png,E,Southeast,ATL
 BOS,Boston Celtics,TD Garden,Boston,Massachusetts,https://content.sportslogos.net/logos/6/213/full/boston_celtics_logo_primary_19977628.png,E,Atlantic,BOS
 BKN,Brooklyn Nets,Barclays Center,Brooklyn,New York,https://content.sportslogos.net/logos/6/3786/full/brooklyn_nets_logo_primary_2025_sportslogosnet-1501.png,E,Atlantic,BRK
