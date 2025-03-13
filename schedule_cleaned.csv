@@ -1,0 +1,1232 @@
+date,visitor,home,start_time,neutral_site,overtime,home_points,away_points,game_length
+2024-10-22,New York Knicks,Boston Celtics,19:30,n,0,132,109,02:04:00
+2024-10-22,Minnesota Timberwolves,Los Angeles Lakers,22:00,n,0,110,103,02:26:00
+2024-10-23,Indiana Pacers,Detroit Pistons,19:00,n,0,109,115,02:23:00
+2024-10-23,Brooklyn Nets,Atlanta Hawks,19:30,n,0,120,116,02:33:00
+2024-10-23,Orlando Magic,Miami Heat,19:30,n,0,97,116,02:31:00
+2024-10-23,Milwaukee Bucks,Philadelphia 76ers,19:30,n,0,109,124,02:28:00
+2024-10-23,Cleveland Cavaliers,Toronto Raptors,19:30,n,0,106,136,02:18:00
+2024-10-23,Charlotte Hornets,Houston Rockets,20:00,n,0,105,110,02:20:00
+2024-10-23,Chicago Bulls,New Orleans Pelicans,20:00,n,0,123,111,02:11:00
+2024-10-23,Memphis Grizzlies,Utah Jazz,21:00,n,0,124,126,02:33:00
+2024-10-23,Phoenix Suns,Los Angeles Clippers,22:00,n,1,113,116,02:45:00
+2024-10-23,Golden State Warriors,Portland Trail Blazers,22:00,n,0,104,140,02:17:00
+2024-10-24,Boston Celtics,Washington Wizards,19:00,n,0,102,122,02:11:00
+2024-10-24,San Antonio Spurs,Dallas Mavericks,19:30,n,0,120,109,02:18:00
+2024-10-24,Minnesota Timberwolves,Sacramento Kings,22:00,n,0,115,117,02:22:00
+2024-10-24,Oklahoma City Thunder,Denver Nuggets,22:00,n,0,87,102,02:10:00
+2024-10-25,Brooklyn Nets,Orlando Magic,19:00,n,0,116,101,02:31:00
+2024-10-25,Philadelphia 76ers,Toronto Raptors,19:00,n,0,115,107,02:47:00
+2024-10-25,Charlotte Hornets,Atlanta Hawks,19:30,n,0,125,120,02:32:00
+2024-10-25,Detroit Pistons,Cleveland Cavaliers,19:30,n,0,113,101,02:10:00
+2024-10-25,Indiana Pacers,New York Knicks,19:30,n,0,123,98,02:21:00
+2024-10-25,Memphis Grizzlies,Houston Rockets,20:00,n,0,128,108,02:31:00
+2024-10-25,Chicago Bulls,Milwaukee Bucks,20:00,n,0,122,133,02:13:00
+2024-10-25,Golden State Warriors,Utah Jazz,21:30,n,0,86,127,02:07:00
+2024-10-25,Phoenix Suns,Los Angeles Lakers,22:00,n,0,123,116,02:17:00
+2024-10-25,New Orleans Pelicans,Portland Trail Blazers,22:00,n,0,103,105,02:23:00
+2024-10-26,Los Angeles Clippers,Denver Nuggets,17:00,n,0,104,109,02:23:00
+2024-10-26,Cleveland Cavaliers,Washington Wizards,19:00,n,0,116,135,02:23:00
+2024-10-26,Boston Celtics,Detroit Pistons,19:00,n,0,118,124,02:18:00
+2024-10-26,Miami Heat,Charlotte Hornets,19:00,n,0,106,114,02:23:00
+2024-10-26,Orlando Magic,Memphis Grizzlies,20:00,n,0,124,111,02:16:00
+2024-10-26,Toronto Raptors,Minnesota Timberwolves,20:00,n,0,112,101,02:12:00
+2024-10-26,Oklahoma City Thunder,Chicago Bulls,20:00,n,0,95,114,02:09:00
+2024-10-26,Houston Rockets,San Antonio Spurs,20:30,n,0,109,106,02:26:00
+2024-10-26,Dallas Mavericks,Phoenix Suns,22:00,n,0,114,102,02:22:00
+2024-10-26,Sacramento Kings,Los Angeles Lakers,22:30,n,0,131,127,02:18:00
+2024-10-27,Philadelphia 76ers,Indiana Pacers,15:30,n,1,114,118,02:52:00
+2024-10-27,New Orleans Pelicans,Portland Trail Blazers,18:00,n,0,125,103,02:09:00
+2024-10-27,Milwaukee Bucks,Brooklyn Nets,18:00,n,0,115,102,02:19:00
+2024-10-27,Atlanta Hawks,Oklahoma City Thunder,19:00,n,0,128,104,02:23:00
+2024-10-27,Los Angeles Clippers,Golden State Warriors,20:30,n,0,104,112,02:22:00
+2024-10-28,Indiana Pacers,Orlando Magic,19:00,n,0,119,115,02:31:00
+2024-10-28,Washington Wizards,Atlanta Hawks,19:30,n,0,119,121,02:26:00
+2024-10-28,Milwaukee Bucks,Boston Celtics,19:30,n,0,119,108,02:18:00
+2024-10-28,Denver Nuggets,Toronto Raptors,19:30,n,1,125,127,02:35:00
+2024-10-28,Detroit Pistons,Miami Heat,19:30,n,0,106,98,02:18:00
+2024-10-28,Cleveland Cavaliers,New York Knicks,19:30,n,0,104,110,02:23:00
+2024-10-28,Houston Rockets,San Antonio Spurs,20:00,n,0,101,106,02:23:00
+2024-10-28,Chicago Bulls,Memphis Grizzlies,20:00,n,0,123,126,02:09:00
+2024-10-28,Utah Jazz,Dallas Mavericks,20:30,n,0,110,102,02:16:00
+2024-10-28,Portland Trail Blazers,Sacramento Kings,22:00,n,0,111,98,02:26:00
+2024-10-28,Los Angeles Lakers,Phoenix Suns,22:00,n,0,109,105,02:17:00
+2024-10-29,Denver Nuggets,Brooklyn Nets,19:30,n,1,139,144,02:46:00
+2024-10-29,Dallas Mavericks,Minnesota Timberwolves,19:30,n,0,114,120,02:24:00
+2024-10-29,Sacramento Kings,Utah Jazz,21:00,n,0,96,113,01:59:00
+2024-10-29,New Orleans Pelicans,Golden State Warriors,22:00,n,0,124,106,02:20:00
+2024-10-30,Detroit Pistons,Philadelphia 76ers,19:00,n,0,95,105,02:15:00
+2024-10-30,Atlanta Hawks,Washington Wizards,19:00,n,0,133,120,02:25:00
+2024-10-30,Boston Celtics,Indiana Pacers,19:00,n,1,135,132,02:37:00
+2024-10-30,Los Angeles Lakers,Cleveland Cavaliers,19:00,n,0,134,110,02:07:00
+2024-10-30,Toronto Raptors,Charlotte Hornets,19:00,n,0,138,133,02:18:00
+2024-10-30,New York Knicks,Miami Heat,19:30,n,0,107,116,02:10:00
+2024-10-30,Orlando Magic,Chicago Bulls,20:00,n,0,102,99,02:19:00
+2024-10-30,Brooklyn Nets,Memphis Grizzlies,20:00,n,0,106,119,02:26:00
+2024-10-30,San Antonio Spurs,Oklahoma City Thunder,21:30,n,0,105,93,02:01:00
+2024-10-30,New Orleans Pelicans,Golden State Warriors,22:00,n,0,104,89,02:19:00
+2024-10-30,Portland Trail Blazers,Los Angeles Clippers,22:30,n,0,105,106,02:11:00
+2024-10-31,Milwaukee Bucks,Memphis Grizzlies,20:00,n,0,122,99,02:12:00
+2024-10-31,Houston Rockets,Dallas Mavericks,20:30,n,0,102,108,02:21:00
+2024-10-31,San Antonio Spurs,Utah Jazz,21:00,n,0,88,106,02:10:00
+2024-10-31,Phoenix Suns,Los Angeles Clippers,22:30,n,0,119,125,02:15:00
+2024-11-01,Boston Celtics,Charlotte Hornets,19:00,n,0,109,124,02:17:00
+2024-11-01,Orlando Magic,Cleveland Cavaliers,19:00,n,0,120,109,02:20:00
+2024-11-01,New York Knicks,Detroit Pistons,19:00,n,0,98,128,01:55:00
+2024-11-01,Sacramento Kings,Atlanta Hawks,19:30,n,0,115,123,02:16:00
+2024-11-01,Chicago Bulls,Brooklyn Nets,19:30,n,0,120,112,02:07:00
+2024-11-01,Los Angeles Lakers,Toronto Raptors,19:30,n,0,125,131,02:25:00
+2024-11-01,Indiana Pacers,New Orleans Pelicans,20:00,n,0,125,118,02:10:00
+2024-11-01,Denver Nuggets,Minnesota Timberwolves,21:30,n,0,119,116,02:25:00
+2024-11-01,Oklahoma City Thunder,Portland Trail Blazers,22:00,n,0,114,137,02:11:00
+2024-11-02,Boston Celtics,Charlotte Hornets,18:00,n,0,103,113,02:09:00
+2024-11-02,Memphis Grizzlies,Philadelphia 76ers,19:30,n,0,107,124,02:12:00
+2024-11-02,Sacramento Kings,Toronto Raptors,19:30,n,1,131,128,02:58:00
+2024-11-02,Golden State Warriors,Houston Rockets,20:00,n,1,121,127,02:43:00
+2024-11-02,Cleveland Cavaliers,Milwaukee Bucks,20:00,n,0,113,114,02:15:00
+2024-11-02,Minnesota Timberwolves,San Antonio Spurs,20:00,n,0,113,103,02:12:00
+2024-11-02,Miami Heat,Washington Wizards,21:30,y,0,98,118,02:16:00
+2024-11-02,Utah Jazz,Denver Nuggets,22:00,n,0,129,103,02:28:00
+2024-11-02,Portland Trail Blazers,Phoenix Suns,22:00,n,0,103,97,02:08:00
+2024-11-02,Oklahoma City Thunder,Los Angeles Clippers,22:30,n,0,92,105,02:11:00
+2024-11-03,Detroit Pistons,Brooklyn Nets,15:30,n,0,92,106,02:22:00
+2024-11-03,Atlanta Hawks,New Orleans Pelicans,19:00,n,0,111,126,02:07:00
+2024-11-03,Orlando Magic,Dallas Mavericks,19:30,n,0,108,85,02:19:00
+2024-11-04,Milwaukee Bucks,Cleveland Cavaliers,19:00,n,0,116,114,02:02:00
+2024-11-04,Golden State Warriors,Washington Wizards,19:15,n,0,112,125,02:20:00
+2024-11-04,Los Angeles Lakers,Detroit Pistons,19:30,n,0,115,103,02:15:00
+2024-11-04,Boston Celtics,Atlanta Hawks,19:45,n,0,93,123,01:56:00
+2024-11-04,Memphis Grizzlies,Brooklyn Nets,20:00,n,0,106,104,02:14:00
+2024-11-04,Sacramento Kings,Miami Heat,20:15,n,0,110,111,02:20:00
+2024-11-04,Utah Jazz,Chicago Bulls,20:30,n,0,126,135,02:22:00
+2024-11-04,New York Knicks,Houston Rockets,20:45,n,0,109,97,02:08:00
+2024-11-04,Charlotte Hornets,Minnesota Timberwolves,21:00,n,0,114,93,02:15:00
+2024-11-04,Orlando Magic,Oklahoma City Thunder,21:15,n,0,102,86,02:15:00
+2024-11-04,Portland Trail Blazers,New Orleans Pelicans,21:30,n,0,100,118,02:07:00
+2024-11-04,Indiana Pacers,Dallas Mavericks,21:45,n,0,127,134,02:12:00
+2024-11-04,Toronto Raptors,Denver Nuggets,22:00,n,0,121,119,02:19:00
+2024-11-04,Philadelphia 76ers,Phoenix Suns,22:15,n,0,118,116,02:18:00
+2024-11-04,San Antonio Spurs,Los Angeles Clippers,22:30,n,0,113,104,02:05:00
+2024-11-06,Detroit Pistons,Charlotte Hornets,19:00,n,0,108,107,02:11:00
+2024-11-06,Orlando Magic,Indiana Pacers,19:00,n,0,118,111,02:20:00
+2024-11-06,New York Knicks,Atlanta Hawks,19:30,n,0,121,116,02:16:00
+2024-11-06,Golden State Warriors,Boston Celtics,19:30,n,0,112,118,02:21:00
+2024-11-06,San Antonio Spurs,Houston Rockets,20:00,n,0,127,100,01:59:00
+2024-11-06,Los Angeles Lakers,Memphis Grizzlies,20:00,n,0,131,114,02:11:00
+2024-11-06,Cleveland Cavaliers,New Orleans Pelicans,20:00,n,0,122,131,02:11:00
+2024-11-06,Chicago Bulls,Dallas Mavericks,20:30,n,0,119,99,02:09:00
+2024-11-06,Oklahoma City Thunder,Denver Nuggets,21:00,n,0,124,122,02:19:00
+2024-11-06,Miami Heat,Phoenix Suns,21:00,n,0,115,112,02:20:00
+2024-11-06,Philadelphia 76ers,Los Angeles Clippers,22:00,n,0,110,98,02:21:00
+2024-11-06,Toronto Raptors,Sacramento Kings,22:00,n,0,122,107,02:11:00
+2024-11-07,Minnesota Timberwolves,Chicago Bulls,20:00,n,0,119,135,02:03:00
+2024-11-07,Utah Jazz,Milwaukee Bucks,20:00,n,0,123,100,02:14:00
+2024-11-07,Portland Trail Blazers,San Antonio Spurs,20:00,n,0,118,105,02:09:00
+2024-11-08,Indiana Pacers,Charlotte Hornets,19:00,n,0,103,83,02:13:00
+2024-11-08,Atlanta Hawks,Detroit Pistons,19:00,n,0,122,121,02:19:00
+2024-11-08,New Orleans Pelicans,Orlando Magic,19:00,n,0,115,88,02:07:00
+2024-11-08,Brooklyn Nets,Boston Celtics,19:30,n,1,108,104,02:26:00
+2024-11-08,Golden State Warriors,Cleveland Cavaliers,19:30,n,0,136,117,02:10:00
+2024-11-08,Phoenix Suns,Dallas Mavericks,19:30,n,0,113,114,02:21:00
+2024-11-08,Milwaukee Bucks,New York Knicks,19:30,n,0,116,94,02:07:00
+2024-11-08,Washington Wizards,Memphis Grizzlies,20:00,n,0,128,104,02:23:00
+2024-11-08,Houston Rockets,Oklahoma City Thunder,20:00,n,0,126,107,02:14:00
+2024-11-08,Miami Heat,Denver Nuggets,21:00,n,0,135,122,02:11:00
+2024-11-08,Portland Trail Blazers,Minnesota Timberwolves,21:00,n,0,127,102,02:08:00
+2024-11-08,Philadelphia 76ers,Los Angeles Lakers,22:00,n,0,116,106,02:15:00
+2024-11-08,Los Angeles Clippers,Sacramento Kings,22:00,n,0,98,107,02:26:00
+2024-11-09,Utah Jazz,San Antonio Spurs,17:00,n,0,110,111,02:22:00
+2024-11-09,Chicago Bulls,Atlanta Hawks,19:30,n,0,113,125,02:17:00
+2024-11-09,Brooklyn Nets,Cleveland Cavaliers,19:30,n,0,105,100,02:17:00
+2024-11-09,Toronto Raptors,Los Angeles Clippers,22:30,n,0,105,103,02:23:00
+2024-11-10,Houston Rockets,Detroit Pistons,15:00,n,0,99,101,02:21:00
+2024-11-10,Boston Celtics,Milwaukee Bucks,15:30,n,0,107,113,02:16:00
+2024-11-10,New York Knicks,Indiana Pacers,17:00,n,0,132,121,02:22:00
+2024-11-10,Washington Wizards,Orlando Magic,18:00,n,0,121,94,02:20:00
+2024-11-10,Miami Heat,Minnesota Timberwolves,19:00,n,0,94,95,02:28:00
+2024-11-10,Golden State Warriors,Oklahoma City Thunder,19:00,n,0,116,127,02:20:00
+2024-11-10,Charlotte Hornets,Philadelphia 76ers,19:00,n,1,107,105,02:47:00
+2024-11-10,Dallas Mavericks,Denver Nuggets,20:00,n,0,122,120,02:11:00
+2024-11-10,Sacramento Kings,Phoenix Suns,20:00,n,1,118,127,02:31:00
+2024-11-10,Memphis Grizzlies,Portland Trail Blazers,21:00,n,0,89,134,02:05:00
+2024-11-10,Toronto Raptors,Los Angeles Lakers,21:30,n,0,123,103,02:25:00
+2024-11-11,Cleveland Cavaliers,Chicago Bulls,20:00,n,0,113,119,02:06:00
+2024-11-11,Washington Wizards,Houston Rockets,20:00,n,0,107,92,02:16:00
+2024-11-11,Brooklyn Nets,New Orleans Pelicans,20:00,n,0,105,107,02:18:00
+2024-11-11,Los Angeles Clippers,Oklahoma City Thunder,20:00,n,0,134,128,02:25:00
+2024-11-11,Sacramento Kings,San Antonio Spurs,20:00,n,0,116,96,02:03:00
+2024-11-12,Atlanta Hawks,Boston Celtics,19:00,n,0,116,117,02:13:00
+2024-11-12,Miami Heat,Detroit Pistons,19:00,n,1,123,121,02:36:00
+2024-11-12,Charlotte Hornets,Orlando Magic,19:00,n,0,114,89,02:12:00
+2024-11-12,New York Knicks,Philadelphia 76ers,19:30,n,0,99,111,02:24:00
+2024-11-12,Toronto Raptors,Milwaukee Bucks,20:00,n,0,99,85,02:14:00
+2024-11-12,Phoenix Suns,Utah Jazz,21:00,n,0,112,120,02:05:00
+2024-11-12,Dallas Mavericks,Golden State Warriors,22:00,n,0,120,117,02:25:00
+2024-11-12,Minnesota Timberwolves,Portland Trail Blazers,22:00,n,0,122,108,02:14:00
+2024-11-13,Indiana Pacers,Orlando Magic,19:00,n,0,94,90,02:10:00
+2024-11-13,Boston Celtics,Brooklyn Nets,19:30,n,0,114,139,02:10:00
+2024-11-13,Chicago Bulls,New York Knicks,19:30,n,0,123,124,02:16:00
+2024-11-13,New Orleans Pelicans,Oklahoma City Thunder,19:30,n,0,106,88,02:12:00
+2024-11-13,Cleveland Cavaliers,Philadelphia 76ers,19:30,n,0,106,114,01:59:00
+2024-11-13,Los Angeles Clippers,Houston Rockets,20:00,n,0,111,103,02:06:00
+2024-11-13,Detroit Pistons,Milwaukee Bucks,20:00,n,1,127,120,02:43:00
+2024-11-13,Washington Wizards,San Antonio Spurs,20:00,n,0,139,130,02:22:00
+2024-11-13,Memphis Grizzlies,Los Angeles Lakers,22:00,n,0,128,123,02:31:00
+2024-11-13,Minnesota Timberwolves,Portland Trail Blazers,22:00,n,0,106,98,02:13:00
+2024-11-13,Phoenix Suns,Sacramento Kings,22:00,n,0,127,104,02:02:00
+2024-11-14,Dallas Mavericks,Utah Jazz,21:00,n,0,115,113,02:10:00
+2024-11-15,Miami Heat,Indiana Pacers,19:00,n,0,111,124,02:10:00
+2024-11-15,Philadelphia 76ers,Orlando Magic,19:00,n,0,98,86,02:25:00
+2024-11-15,Detroit Pistons,Toronto Raptors,19:00,n,0,95,99,02:20:00
+2024-11-15,Washington Wizards,Atlanta Hawks,19:30,n,0,129,117,02:15:00
+2024-11-15,Chicago Bulls,Cleveland Cavaliers,19:30,n,0,144,126,02:11:00
+2024-11-15,Brooklyn Nets,New York Knicks,19:30,n,0,124,122,02:43:00
+2024-11-15,Los Angeles Lakers,San Antonio Spurs,19:30,n,0,115,120,02:18:00
+2024-11-15,Los Angeles Clippers,Houston Rockets,20:00,n,0,125,104,02:13:00
+2024-11-15,Denver Nuggets,New Orleans Pelicans,20:00,n,0,101,94,02:04:00
+2024-11-15,Phoenix Suns,Oklahoma City Thunder,20:00,n,0,99,83,02:17:00
+2024-11-15,Memphis Grizzlies,Golden State Warriors,22:00,n,0,123,118,02:35:00
+2024-11-15,Minnesota Timberwolves,Sacramento Kings,22:00,n,1,126,130,02:25:00
+2024-11-16,Milwaukee Bucks,Charlotte Hornets,15:00,n,0,115,114,02:15:00
+2024-11-16,Toronto Raptors,Boston Celtics,20:00,n,1,126,123,02:27:00
+2024-11-16,Los Angeles Lakers,New Orleans Pelicans,20:00,n,0,99,104,02:12:00
+2024-11-16,San Antonio Spurs,Dallas Mavericks,20:30,n,0,110,93,02:10:00
+2024-11-16,Utah Jazz,Sacramento Kings,22:00,n,0,121,117,02:35:00
+2024-11-17,Phoenix Suns,Minnesota Timberwolves,15:30,n,0,120,117,02:16:00
+2024-11-17,Miami Heat,Indiana Pacers,17:00,n,0,119,110,02:15:00
+2024-11-17,Charlotte Hornets,Cleveland Cavaliers,18:00,n,0,128,114,02:16:00
+2024-11-17,Denver Nuggets,Memphis Grizzlies,18:00,n,0,105,90,02:12:00
+2024-11-17,Atlanta Hawks,Portland Trail Blazers,18:00,n,0,114,110,02:25:00
+2024-11-17,Detroit Pistons,Washington Wizards,18:00,n,0,104,124,02:08:00
+2024-11-17,Houston Rockets,Chicago Bulls,19:00,n,0,107,143,02:08:00
+2024-11-17,Brooklyn Nets,New York Knicks,19:00,n,0,114,104,02:20:00
+2024-11-17,Dallas Mavericks,Oklahoma City Thunder,19:00,n,0,119,121,02:33:00
+2024-11-17,Utah Jazz,Los Angeles Clippers,21:00,n,0,116,105,02:02:00
+2024-11-18,Chicago Bulls,Detroit Pistons,19:00,n,0,112,122,02:09:00
+2024-11-18,Philadelphia 76ers,Miami Heat,19:30,n,0,106,89,02:10:00
+2024-11-18,Washington Wizards,New York Knicks,19:30,n,0,134,106,02:00:00
+2024-11-18,Indiana Pacers,Toronto Raptors,19:30,n,0,130,119,02:16:00
+2024-11-18,Houston Rockets,Milwaukee Bucks,20:00,n,0,101,100,02:12:00
+2024-11-18,Orlando Magic,Phoenix Suns,21:00,n,0,99,109,02:21:00
+2024-11-18,Atlanta Hawks,Sacramento Kings,22:00,n,0,108,109,02:10:00
+2024-11-18,Golden State Warriors,Los Angeles Clippers,22:30,n,0,102,99,02:11:00
+2024-11-19,Cleveland Cavaliers,Boston Celtics,19:00,n,0,120,117,02:16:00
+2024-11-19,Charlotte Hornets,Brooklyn Nets,19:30,n,0,116,115,02:32:00
+2024-11-19,Denver Nuggets,Memphis Grizzlies,20:00,n,0,110,122,02:25:00
+2024-11-19,New Orleans Pelicans,Dallas Mavericks,20:30,n,0,132,91,02:08:00
+2024-11-19,Oklahoma City Thunder,San Antonio Spurs,21:30,n,0,110,104,02:16:00
+2024-11-19,Utah Jazz,Los Angeles Lakers,22:30,n,0,124,118,02:16:00
+2024-11-20,New Orleans Pelicans,Cleveland Cavaliers,19:30,n,0,128,100,01:59:00
+2024-11-20,Chicago Bulls,Milwaukee Bucks,19:30,n,0,122,106,02:18:00
+2024-11-20,Indiana Pacers,Houston Rockets,20:00,n,0,130,113,02:18:00
+2024-11-20,Philadelphia 76ers,Memphis Grizzlies,20:00,n,0,117,111,02:19:00
+2024-11-20,Portland Trail Blazers,Oklahoma City Thunder,20:00,n,0,109,99,02:17:00
+2024-11-20,Atlanta Hawks,Golden State Warriors,22:00,n,0,120,97,02:08:00
+2024-11-20,New York Knicks,Phoenix Suns,22:00,n,0,122,138,02:16:00
+2024-11-20,Orlando Magic,Los Angeles Clippers,22:30,n,0,104,93,02:16:00
+2024-11-21,Detroit Pistons,Charlotte Hornets,19:00,n,1,123,121,02:39:00
+2024-11-21,Minnesota Timberwolves,Toronto Raptors,19:30,n,0,110,105,02:24:00
+2024-11-21,Utah Jazz,San Antonio Spurs,20:00,n,0,126,118,02:22:00
+2024-11-21,Orlando Magic,Los Angeles Lakers,22:30,n,0,118,119,02:21:00
+2024-11-22,Brooklyn Nets,Philadelphia 76ers,19:00,n,0,113,98,02:06:00
+2024-11-22,Boston Celtics,Washington Wizards,19:00,n,0,96,108,02:24:00
+2024-11-22,Golden State Warriors,New Orleans Pelicans,19:30,n,0,108,112,02:28:00
+2024-11-22,Atlanta Hawks,Chicago Bulls,20:00,n,0,136,122,02:08:00
+2024-11-22,Portland Trail Blazers,Houston Rockets,20:00,n,0,116,88,02:10:00
+2024-11-22,Indiana Pacers,Milwaukee Bucks,20:00,n,0,129,117,02:16:00
+2024-11-22,Dallas Mavericks,Denver Nuggets,22:00,n,0,120,123,02:29:00
+2024-11-22,Sacramento Kings,Los Angeles Clippers,22:30,n,0,104,88,
+2024-11-23,New York Knicks,Utah Jazz,17:00,n,0,121,106,02:07:00
+2024-11-23,Detroit Pistons,Orlando Magic,19:00,n,0,111,100,02:13:00
+2024-11-23,Memphis Grizzlies,Chicago Bulls,20:00,n,0,131,142,02:07:00
+2024-11-23,Portland Trail Blazers,Houston Rockets,20:00,n,0,98,104,02:28:00
+2024-11-23,Charlotte Hornets,Milwaukee Bucks,20:00,n,0,125,119,02:21:00
+2024-11-23,Golden State Warriors,San Antonio Spurs,20:30,n,0,104,94,02:10:00
+2024-11-23,Denver Nuggets,Los Angeles Lakers,22:30,n,0,102,127,02:05:00
+2024-11-24,Minnesota Timberwolves,Boston Celtics,15:30,n,0,107,105,02:03:00
+2024-11-24,Washington Wizards,Indiana Pacers,17:00,n,0,115,103,02:11:00
+2024-11-24,Dallas Mavericks,Miami Heat,18:00,n,1,123,118,02:30:00
+2024-11-24,Los Angeles Clippers,Philadelphia 76ers,18:00,n,0,99,125,02:13:00
+2024-11-24,Toronto Raptors,Cleveland Cavaliers,19:30,n,0,122,108,02:17:00
+2024-11-24,Brooklyn Nets,Sacramento Kings,21:00,n,0,103,108,02:24:00
+2024-11-25,Orlando Magic,Charlotte Hornets,19:00,n,0,84,95,02:20:00
+2024-11-25,Toronto Raptors,Detroit Pistons,19:00,n,0,102,100,02:24:00
+2024-11-25,New Orleans Pelicans,Indiana Pacers,19:00,n,0,114,110,02:10:00
+2024-11-25,Dallas Mavericks,Atlanta Hawks,19:30,n,0,119,129,02:07:00
+2024-11-25,Los Angeles Clippers,Boston Celtics,19:30,n,0,126,94,01:58:00
+2024-11-25,Portland Trail Blazers,Memphis Grizzlies,20:00,n,0,123,98,02:16:00
+2024-11-25,New York Knicks,Denver Nuggets,21:00,n,0,118,145,
+2024-11-25,Brooklyn Nets,Golden State Warriors,22:00,n,0,120,128,02:22:00
+2024-11-25,Oklahoma City Thunder,Sacramento Kings,22:00,n,0,109,130,02:11:00
+2024-11-26,Chicago Bulls,Washington Wizards,19:00,n,0,108,127,02:13:00
+2024-11-26,Milwaukee Bucks,Miami Heat,19:30,n,0,103,106,02:21:00
+2024-11-26,Houston Rockets,Minnesota Timberwolves,20:00,n,1,111,117,02:18:00
+2024-11-26,San Antonio Spurs,Utah Jazz,21:00,n,0,115,128,02:19:00
+2024-11-26,Los Angeles Lakers,Phoenix Suns,22:00,n,0,127,100,02:18:00
+2024-11-27,Miami Heat,Charlotte Hornets,19:00,n,0,94,98,02:14:00
+2024-11-27,Atlanta Hawks,Cleveland Cavaliers,19:00,n,0,124,135,02:18:00
+2024-11-27,Portland Trail Blazers,Indiana Pacers,19:00,n,0,121,114,02:15:00
+2024-11-27,Chicago Bulls,Orlando Magic,19:00,n,0,133,119,02:12:00
+2024-11-27,Houston Rockets,Philadelphia 76ers,19:00,n,1,115,122,02:40:00
+2024-11-27,Los Angeles Clippers,Washington Wizards,19:00,n,0,96,121,02:12:00
+2024-11-27,New York Knicks,Dallas Mavericks,19:30,n,0,129,114,02:17:00
+2024-11-27,Detroit Pistons,Memphis Grizzlies,20:00,n,0,131,111,02:11:00
+2024-11-27,Sacramento Kings,Minnesota Timberwolves,20:00,n,0,104,115,02:17:00
+2024-11-27,Toronto Raptors,New Orleans Pelicans,20:00,n,0,93,119,02:00:00
+2024-11-27,Los Angeles Lakers,San Antonio Spurs,20:30,n,0,101,119,02:05:00
+2024-11-27,Brooklyn Nets,Phoenix Suns,21:00,n,0,117,127,02:23:00
+2024-11-27,Denver Nuggets,Utah Jazz,21:00,n,0,103,122,02:05:00
+2024-11-27,Oklahoma City Thunder,Golden State Warriors,22:00,n,0,101,105,02:24:00
+2024-11-29,New York Knicks,Charlotte Hornets,12:00,n,0,98,99,02:17:00
+2024-11-29,Cleveland Cavaliers,Atlanta Hawks,14:30,n,0,117,101,02:12:00
+2024-11-29,New Orleans Pelicans,Memphis Grizzlies,17:00,n,0,120,109,02:09:00
+2024-11-29,Orlando Magic,Brooklyn Nets,19:30,n,0,100,123,02:13:00
+2024-11-29,Los Angeles Clippers,Minnesota Timberwolves,19:30,n,0,93,92,02:10:00
+2024-11-29,Boston Celtics,Chicago Bulls,20:00,n,0,129,138,02:08:00
+2024-11-29,Detroit Pistons,Indiana Pacers,20:00,n,0,106,130,02:11:00
+2024-11-29,Toronto Raptors,Miami Heat,20:00,n,0,121,111,02:13:00
+2024-11-29,Oklahoma City Thunder,Los Angeles Lakers,22:00,n,0,93,101,02:16:00
+2024-11-29,Sacramento Kings,Portland Trail Blazers,22:00,n,0,115,106,02:12:00
+2024-11-30,Atlanta Hawks,Charlotte Hornets,18:00,n,0,104,107,02:20:00
+2024-11-30,Philadelphia 76ers,Detroit Pistons,19:00,n,0,96,111,02:12:00
+2024-11-30,Washington Wizards,Milwaukee Bucks,20:00,n,0,124,114,02:20:00
+2024-11-30,Golden State Warriors,Phoenix Suns,21:00,n,0,113,105,02:11:00
+2024-11-30,Dallas Mavericks,Utah Jazz,21:30,n,0,94,106,02:04:00
+2024-12-01,Orlando Magic,Brooklyn Nets,15:30,n,0,92,100,02:36:00
+2024-12-01,Indiana Pacers,Memphis Grizzlies,15:30,n,0,136,121,02:18:00
+2024-12-01,Boston Celtics,Cleveland Cavaliers,18:00,n,0,115,111,02:16:00
+2024-12-01,New Orleans Pelicans,New York Knicks,18:00,n,0,118,85,02:03:00
+2024-12-01,Miami Heat,Toronto Raptors,18:00,n,0,119,116,02:16:00
+2024-12-01,Oklahoma City Thunder,Houston Rockets,19:00,n,0,119,116,02:35:00
+2024-12-01,Los Angeles Lakers,Utah Jazz,20:00,n,0,104,105,02:09:00
+2024-12-01,Dallas Mavericks,Portland Trail Blazers,21:00,n,0,131,137,02:11:00
+2024-12-01,San Antonio Spurs,Sacramento Kings,21:00,n,0,125,127,02:18:00
+2024-12-01,Denver Nuggets,Los Angeles Clippers,22:00,n,0,126,122,02:16:00
+2024-12-02,New Orleans Pelicans,Atlanta Hawks,19:30,n,0,124,112,02:12:00
+2024-12-02,Miami Heat,Boston Celtics,19:30,n,0,108,89,02:02:00
+2024-12-02,Brooklyn Nets,Chicago Bulls,20:00,n,0,128,102,02:09:00
+2024-12-02,Los Angeles Lakers,Minnesota Timberwolves,20:00,n,0,109,80,02:03:00
+2024-12-03,Philadelphia 76ers,Charlotte Hornets,19:00,n,0,104,110,02:18:00
+2024-12-03,Washington Wizards,Cleveland Cavaliers,19:00,n,0,118,87,02:09:00
+2024-12-03,Milwaukee Bucks,Detroit Pistons,19:00,n,0,107,128,02:10:00
+2024-12-03,Orlando Magic,New York Knicks,19:30,n,0,121,106,02:26:00
+2024-12-03,Indiana Pacers,Toronto Raptors,19:30,n,0,122,111,02:17:00
+2024-12-03,Utah Jazz,Oklahoma City Thunder,20:00,n,0,133,106,02:13:00
+2024-12-03,Memphis Grizzlies,Dallas Mavericks,20:30,n,0,121,116,02:35:00
+2024-12-03,San Antonio Spurs,Phoenix Suns,21:00,n,0,104,93,02:15:00
+2024-12-03,Golden State Warriors,Denver Nuggets,22:00,n,0,119,115,02:26:00
+2024-12-03,Houston Rockets,Sacramento Kings,22:00,n,0,120,111,02:21:00
+2024-12-03,Portland Trail Blazers,Los Angeles Clippers,22:30,n,0,127,105,02:06:00
+2024-12-04,Detroit Pistons,Boston Celtics,19:30,n,0,130,120,02:12:00
+2024-12-04,Indiana Pacers,Brooklyn Nets,19:30,n,0,99,90,02:16:00
+2024-12-04,Los Angeles Lakers,Miami Heat,19:30,n,0,134,93,01:59:00
+2024-12-04,Orlando Magic,Philadelphia 76ers,19:30,n,0,102,106,02:21:00
+2024-12-04,Atlanta Hawks,Milwaukee Bucks,20:00,n,0,104,119,02:21:00
+2024-12-04,Minnesota Timberwolves,Los Angeles Clippers,22:30,n,0,80,108,02:02:00
+2024-12-05,Denver Nuggets,Cleveland Cavaliers,19:00,n,0,126,114,02:05:00
+2024-12-05,Dallas Mavericks,Washington Wizards,19:00,n,0,101,137,02:08:00
+2024-12-05,Charlotte Hornets,New York Knicks,19:30,n,0,125,101,02:08:00
+2024-12-05,Oklahoma City Thunder,Toronto Raptors,19:30,n,0,92,129,02:02:00
+2024-12-05,Sacramento Kings,Memphis Grizzlies,20:00,n,0,115,110,02:28:00
+2024-12-05,Phoenix Suns,New Orleans Pelicans,20:00,n,0,126,124,02:21:00
+2024-12-05,Chicago Bulls,San Antonio Spurs,20:00,n,0,124,139,02:22:00
+2024-12-05,Houston Rockets,Golden State Warriors,22:00,n,0,99,93,02:19:00
+2024-12-06,Orlando Magic,Philadelphia 76ers,19:00,n,0,102,94,02:24:00
+2024-12-06,Los Angeles Lakers,Atlanta Hawks,19:30,n,1,134,132,02:42:00
+2024-12-06,Milwaukee Bucks,Boston Celtics,19:30,n,0,111,105,02:16:00
+2024-12-06,Indiana Pacers,Chicago Bulls,20:00,n,0,123,132,02:00:00
+2024-12-06,Sacramento Kings,San Antonio Spurs,20:00,n,0,113,140,02:13:00
+2024-12-06,Minnesota Timberwolves,Golden State Warriors,22:00,n,0,90,107,02:18:00
+2024-12-06,Utah Jazz,Portland Trail Blazers,22:00,n,0,99,141,02:07:00
+2024-12-07,Cleveland Cavaliers,Charlotte Hornets,13:00,n,0,102,116,02:14:00
+2024-12-07,Oklahoma City Thunder,New Orleans Pelicans,19:00,n,0,109,119,02:17:00
+2024-12-07,Denver Nuggets,Washington Wizards,19:00,n,0,122,113,02:22:00
+2024-12-07,Detroit Pistons,New York Knicks,19:30,n,0,111,120,02:15:00
+2024-12-07,Dallas Mavericks,Toronto Raptors,19:30,n,0,118,125,02:11:00
+2024-12-07,Memphis Grizzlies,Boston Celtics,20:00,n,0,121,127,02:20:00
+2024-12-07,Phoenix Suns,Miami Heat,20:00,n,0,121,111,02:13:00
+2024-12-08,Philadelphia 76ers,Chicago Bulls,13:00,n,0,100,108,02:10:00
+2024-12-08,Milwaukee Bucks,Brooklyn Nets,15:30,n,0,113,118,02:19:00
+2024-12-08,Charlotte Hornets,Indiana Pacers,17:00,n,0,109,113,02:22:00
+2024-12-08,Denver Nuggets,Atlanta Hawks,18:00,n,0,111,141,02:14:00
+2024-12-08,Cleveland Cavaliers,Miami Heat,18:00,n,0,122,113,
+2024-12-08,Phoenix Suns,Orlando Magic,18:30,n,0,115,110,02:23:00
+2024-12-08,New Orleans Pelicans,San Antonio Spurs,19:00,n,0,121,116,02:20:00
+2024-12-08,Memphis Grizzlies,Washington Wizards,19:00,n,0,112,140,02:18:00
+2024-12-08,Minnesota Timberwolves,Golden State Warriors,20:30,n,0,114,106,02:18:00
+2024-12-08,Houston Rockets,Los Angeles Clippers,21:00,n,0,106,117,02:13:00
+2024-12-08,Utah Jazz,Sacramento Kings,21:00,n,0,141,97,02:09:00
+2024-12-08,Portland Trail Blazers,Los Angeles Lakers,21:30,n,0,107,98,02:07:00
+2024-12-09,New York Knicks,Toronto Raptors,19:30,n,0,108,113,02:17:00
+2024-12-10,Orlando Magic,Milwaukee Bucks,19:00,n,0,114,109,02:35:00
+2024-12-10,Dallas Mavericks,Oklahoma City Thunder,21:30,n,0,118,104,02:08:00
+2024-12-11,Atlanta Hawks,New York Knicks,19:00,n,0,100,108,02:13:00
+2024-12-11,Golden State Warriors,Houston Rockets,21:30,n,0,91,90,02:17:00
+2024-12-12,Detroit Pistons,Boston Celtics,19:30,n,0,123,99,01:57:00
+2024-12-12,Toronto Raptors,Miami Heat,19:30,n,0,114,104,02:14:00
+2024-12-12,Sacramento Kings,New Orleans Pelicans,20:00,n,0,109,111,02:12:00
+2024-12-13,Washington Wizards,Cleveland Cavaliers,19:00,n,0,115,105,02:15:00
+2024-12-13,Indiana Pacers,Philadelphia 76ers,19:00,n,0,107,121,02:17:00
+2024-12-13,Charlotte Hornets,Chicago Bulls,20:00,n,0,109,95,02:08:00
+2024-12-13,Brooklyn Nets,Memphis Grizzlies,20:00,n,0,135,119,02:26:00
+2024-12-13,Los Angeles Lakers,Minnesota Timberwolves,20:00,n,0,97,87,02:08:00
+2024-12-13,Los Angeles Clippers,Denver Nuggets,21:00,n,0,120,98,02:13:00
+2024-12-13,Phoenix Suns,Utah Jazz,21:30,n,0,126,134,02:11:00
+2024-12-13,San Antonio Spurs,Portland Trail Blazers,22:00,n,0,116,118,02:16:00
+2024-12-14,Atlanta Hawks,Milwaukee Bucks,16:30,y,0,110,102,02:30:00
+2024-12-14,Houston Rockets,Oklahoma City Thunder,20:30,y,0,111,96,02:24:00
+2024-12-15,New Orleans Pelicans,Indiana Pacers,17:00,n,0,119,104,02:08:00
+2024-12-15,New York Knicks,Orlando Magic,18:00,n,0,91,100,02:22:00
+2024-12-15,Boston Celtics,Washington Wizards,18:00,n,0,98,112,02:05:00
+2024-12-15,Minnesota Timberwolves,San Antonio Spurs,19:00,n,0,92,106,02:03:00
+2024-12-15,Portland Trail Blazers,Phoenix Suns,20:00,n,0,116,109,02:06:00
+2024-12-15,Dallas Mavericks,Golden State Warriors,20:30,n,0,133,143,02:14:00
+2024-12-15,Memphis Grizzlies,Los Angeles Lakers,21:30,n,0,116,110,02:34:00
+2024-12-16,Philadelphia 76ers,Charlotte Hornets,19:00,n,0,108,121,02:22:00
+2024-12-16,Miami Heat,Detroit Pistons,19:00,n,1,125,124,02:35:00
+2024-12-16,Cleveland Cavaliers,Brooklyn Nets,19:30,n,0,101,130,02:18:00
+2024-12-16,Chicago Bulls,Toronto Raptors,19:30,n,0,121,122,02:25:00
+2024-12-16,Denver Nuggets,Sacramento Kings,22:00,n,0,129,130,02:19:00
+2024-12-16,Utah Jazz,Los Angeles Clippers,22:30,n,0,144,107,02:16:00
+2024-12-17,Milwaukee Bucks,Oklahoma City Thunder,20:30,y,0,81,97,02:19:00
+2024-12-19,Utah Jazz,Detroit Pistons,19:00,n,0,119,126,02:32:00
+2024-12-19,Oklahoma City Thunder,Orlando Magic,19:00,n,0,99,105,02:26:00
+2024-12-19,Charlotte Hornets,Washington Wizards,19:00,n,0,123,114,02:24:00
+2024-12-19,Chicago Bulls,Boston Celtics,19:30,n,0,108,117,02:06:00
+2024-12-19,Brooklyn Nets,Toronto Raptors,19:30,n,0,94,101,02:20:00
+2024-12-19,New Orleans Pelicans,Houston Rockets,20:00,n,0,133,113,02:13:00
+2024-12-19,Golden State Warriors,Memphis Grizzlies,20:00,n,0,144,93,02:06:00
+2024-12-19,Atlanta Hawks,San Antonio Spurs,20:00,n,1,133,126,02:36:00
+2024-12-19,Los Angeles Clippers,Dallas Mavericks,20:30,n,0,95,118,02:14:00
+2024-12-19,Indiana Pacers,Phoenix Suns,21:00,n,0,111,120,02:17:00
+2024-12-19,New York Knicks,Minnesota Timberwolves,21:30,n,0,107,133,02:13:00
+2024-12-19,Denver Nuggets,Portland Trail Blazers,22:00,n,0,126,124,02:14:00
+2024-12-19,Los Angeles Lakers,Sacramento Kings,22:00,n,0,100,113,02:18:00
+2024-12-20,Charlotte Hornets,Philadelphia 76ers,19:00,n,0,108,98,02:16:00
+2024-12-20,Milwaukee Bucks,Cleveland Cavaliers,19:30,n,0,124,101,02:03:00
+2024-12-20,Oklahoma City Thunder,Miami Heat,20:00,n,0,97,104,02:17:00
+2024-12-21,Los Angeles Lakers,Sacramento Kings,18:00,n,0,99,103,02:13:00
+2024-12-21,Miami Heat,Orlando Magic,19:00,n,0,121,114,02:32:00
+2024-12-21,Memphis Grizzlies,Atlanta Hawks,19:30,n,0,112,128,02:04:00
+2024-12-21,Utah Jazz,Brooklyn Nets,19:30,n,0,94,105,02:06:00
+2024-12-21,Boston Celtics,Chicago Bulls,20:00,n,0,98,123,01:57:00
+2024-12-21,Philadelphia 76ers,Cleveland Cavaliers,20:00,n,0,126,99,02:06:00
+2024-12-21,Washington Wizards,Milwaukee Bucks,20:00,n,0,112,101,01:54:00
+2024-12-21,Golden State Warriors,Minnesota Timberwolves,20:00,n,0,103,113,02:47:00
+2024-12-21,New York Knicks,New Orleans Pelicans,20:00,n,0,93,104,02:07:00
+2024-12-21,Los Angeles Clippers,Dallas Mavericks,20:30,n,0,113,97,02:10:00
+2024-12-21,Portland Trail Blazers,San Antonio Spurs,20:30,n,0,114,94,02:06:00
+2024-12-21,Detroit Pistons,Phoenix Suns,21:00,n,0,125,133,02:22:00
+2024-12-22,Indiana Pacers,Sacramento Kings,18:00,n,0,95,122,02:00:00
+2024-12-22,Houston Rockets,Toronto Raptors,18:00,n,0,110,114,02:14:00
+2024-12-22,Denver Nuggets,New Orleans Pelicans,19:00,n,1,129,132,02:39:00
+2024-12-23,Houston Rockets,Charlotte Hornets,19:00,n,0,101,114,02:03:00
+2024-12-23,Utah Jazz,Cleveland Cavaliers,19:00,n,0,124,113,02:09:00
+2024-12-23,Boston Celtics,Orlando Magic,19:00,n,0,108,104,02:26:00
+2024-12-23,San Antonio Spurs,Philadelphia 76ers,19:00,n,0,111,106,02:20:00
+2024-12-23,Minnesota Timberwolves,Atlanta Hawks,19:30,n,0,117,104,02:12:00
+2024-12-23,Brooklyn Nets,Miami Heat,19:30,n,0,110,95,02:10:00
+2024-12-23,Toronto Raptors,New York Knicks,19:30,n,0,139,125,02:19:00
+2024-12-23,Milwaukee Bucks,Chicago Bulls,20:00,n,0,91,112,02:02:00
+2024-12-23,Los Angeles Clippers,Memphis Grizzlies,20:00,n,0,110,114,02:26:00
+2024-12-23,Washington Wizards,Oklahoma City Thunder,20:00,n,0,123,105,02:17:00
+2024-12-23,Portland Trail Blazers,Dallas Mavericks,20:30,n,0,132,108,02:15:00
+2024-12-23,Phoenix Suns,Denver Nuggets,22:00,n,0,117,90,02:05:00
+2024-12-23,Indiana Pacers,Golden State Warriors,22:00,n,0,105,111,02:13:00
+2024-12-23,Detroit Pistons,Los Angeles Lakers,22:30,n,0,114,117,02:11:00
+2024-12-25,San Antonio Spurs,New York Knicks,12:00,n,0,117,114,02:19:00
+2024-12-25,Minnesota Timberwolves,Dallas Mavericks,14:30,n,0,99,105,02:20:00
+2024-12-25,Philadelphia 76ers,Boston Celtics,17:00,n,0,114,118,02:23:00
+2024-12-25,Los Angeles Lakers,Golden State Warriors,20:00,n,0,113,115,02:25:00
+2024-12-25,Denver Nuggets,Phoenix Suns,22:30,n,0,110,100,02:15:00
+2024-12-26,Oklahoma City Thunder,Indiana Pacers,19:00,n,0,114,120,02:11:00
+2024-12-26,Miami Heat,Orlando Magic,19:00,n,0,88,89,02:11:00
+2024-12-26,Charlotte Hornets,Washington Wizards,19:00,n,0,113,110,02:25:00
+2024-12-26,Chicago Bulls,Atlanta Hawks,19:30,n,0,141,133,02:14:00
+2024-12-26,Toronto Raptors,Memphis Grizzlies,20:00,n,0,155,126,02:12:00
+2024-12-26,Brooklyn Nets,Milwaukee Bucks,20:00,n,0,105,111,02:16:00
+2024-12-26,Houston Rockets,New Orleans Pelicans,20:00,n,0,111,128,02:03:00
+2024-12-26,Utah Jazz,Portland Trail Blazers,22:00,n,0,122,120,02:07:00
+2024-12-26,Detroit Pistons,Sacramento Kings,22:00,n,0,113,114,02:22:00
+2024-12-27,New York Knicks,Orlando Magic,19:00,n,0,85,108,02:23:00
+2024-12-27,Indiana Pacers,Boston Celtics,19:30,n,0,142,105,02:08:00
+2024-12-27,San Antonio Spurs,Brooklyn Nets,19:30,n,0,87,96,02:20:00
+2024-12-27,Minnesota Timberwolves,Houston Rockets,20:00,n,0,112,113,02:12:00
+2024-12-27,Memphis Grizzlies,New Orleans Pelicans,20:00,n,0,124,132,02:24:00
+2024-12-27,Cleveland Cavaliers,Denver Nuggets,21:00,n,0,135,149,02:14:00
+2024-12-27,Dallas Mavericks,Phoenix Suns,21:00,n,0,89,98,02:20:00
+2024-12-27,Golden State Warriors,Los Angeles Clippers,22:00,n,0,102,92,02:17:00
+2024-12-28,Miami Heat,Atlanta Hawks,15:00,n,0,120,110,02:09:00
+2024-12-28,Oklahoma City Thunder,Charlotte Hornets,18:00,n,0,94,106,02:09:00
+2024-12-28,New York Knicks,Washington Wizards,19:00,n,1,132,136,02:28:00
+2024-12-28,Milwaukee Bucks,Chicago Bulls,20:00,n,0,116,111,02:10:00
+2024-12-28,Phoenix Suns,Golden State Warriors,20:30,n,0,109,105,02:18:00
+2024-12-28,Detroit Pistons,Denver Nuggets,21:00,n,0,134,121,02:19:00
+2024-12-28,Philadelphia 76ers,Utah Jazz,21:30,n,0,111,114,02:31:00
+2024-12-28,Dallas Mavericks,Portland Trail Blazers,22:00,n,0,126,122,02:17:00
+2024-12-28,Sacramento Kings,Los Angeles Lakers,22:30,n,0,132,122,02:15:00
+2024-12-29,Brooklyn Nets,Orlando Magic,15:30,n,0,102,101,02:26:00
+2024-12-29,Indiana Pacers,Boston Celtics,18:00,n,0,114,123,02:13:00
+2024-12-29,Atlanta Hawks,Toronto Raptors,18:00,n,0,107,136,02:18:00
+2024-12-29,Miami Heat,Houston Rockets,19:00,n,0,100,104,02:19:00
+2024-12-29,Memphis Grizzlies,Oklahoma City Thunder,19:00,n,0,130,106,02:08:00
+2024-12-29,San Antonio Spurs,Minnesota Timberwolves,21:00,n,0,112,110,02:20:00
+2024-12-30,Chicago Bulls,Charlotte Hornets,19:00,n,1,108,115,02:24:00
+2024-12-30,New York Knicks,Washington Wizards,19:00,n,0,106,126,02:10:00
+2024-12-30,Los Angeles Clippers,New Orleans Pelicans,20:00,n,0,113,116,02:27:00
+2024-12-30,Denver Nuggets,Utah Jazz,21:00,n,0,121,132,02:06:00
+2024-12-30,Cleveland Cavaliers,Golden State Warriors,22:00,n,0,95,113,02:10:00
+2024-12-30,Philadelphia 76ers,Portland Trail Blazers,22:00,n,0,103,125,02:27:00
+2024-12-30,Dallas Mavericks,Sacramento Kings,22:00,n,0,110,100,02:19:00
+2024-12-31,Toronto Raptors,Boston Celtics,15:00,n,0,125,71,01:59:00
+2024-12-31,Milwaukee Bucks,Indiana Pacers,15:00,n,0,112,120,02:24:00
+2024-12-31,Los Angeles Clippers,San Antonio Spurs,19:00,n,0,122,86,02:03:00
+2024-12-31,Minnesota Timberwolves,Oklahoma City Thunder,20:00,n,0,113,105,02:09:00
+2024-12-31,Cleveland Cavaliers,Los Angeles Lakers,21:00,n,0,110,122,02:03:00
+2024-12-31,Memphis Grizzlies,Phoenix Suns,21:00,n,0,112,117,02:27:00
+2025-01-01,Orlando Magic,Detroit Pistons,19:00,n,0,105,96,02:17:00
+2025-01-01,Chicago Bulls,Washington Wizards,19:00,n,0,125,107,02:12:00
+2025-01-01,New Orleans Pelicans,Miami Heat,19:30,n,0,119,108,02:10:00
+2025-01-01,Utah Jazz,New York Knicks,19:30,n,0,119,103,02:06:00
+2025-01-01,Brooklyn Nets,Toronto Raptors,19:30,n,0,130,113,02:10:00
+2025-01-01,Dallas Mavericks,Houston Rockets,20:00,n,0,110,99,02:17:00
+2025-01-01,Atlanta Hawks,Denver Nuggets,21:00,n,0,139,120,02:08:00
+2025-01-01,Philadelphia 76ers,Sacramento Kings,22:00,n,0,113,107,02:18:00
+2025-01-02,Indiana Pacers,Miami Heat,19:30,n,0,115,128,02:05:00
+2025-01-02,Boston Celtics,Minnesota Timberwolves,19:30,n,0,115,118,02:11:00
+2025-01-02,Brooklyn Nets,Milwaukee Bucks,20:00,n,0,110,113,02:27:00
+2025-01-02,Los Angeles Clippers,Oklahoma City Thunder,20:00,n,0,116,98,02:04:00
+2025-01-02,Philadelphia 76ers,Golden State Warriors,22:00,n,0,139,105,02:16:00
+2025-01-02,Portland Trail Blazers,Los Angeles Lakers,22:30,n,0,114,106,02:09:00
+2025-01-03,Charlotte Hornets,Detroit Pistons,19:00,n,0,98,94,02:22:00
+2025-01-03,Orlando Magic,Toronto Raptors,19:30,n,0,97,106,02:07:00
+2025-01-03,Boston Celtics,Houston Rockets,20:00,n,0,86,109,02:01:00
+2025-01-03,Washington Wizards,New Orleans Pelicans,20:00,n,0,132,120,02:17:00
+2025-01-03,New York Knicks,Oklahoma City Thunder,20:00,n,0,117,107,02:13:00
+2025-01-03,Cleveland Cavaliers,Dallas Mavericks,20:30,n,0,122,134,02:10:00
+2025-01-03,San Antonio Spurs,Denver Nuggets,21:00,n,0,110,113,02:02:00
+2025-01-03,Memphis Grizzlies,Sacramento Kings,22:00,n,0,138,133,02:25:00
+2025-01-03,Atlanta Hawks,Los Angeles Lakers,22:30,n,0,119,102,02:10:00
+2025-01-04,Philadelphia 76ers,Brooklyn Nets,18:00,n,0,94,123,02:16:00
+2025-01-04,Minnesota Timberwolves,Detroit Pistons,19:00,n,0,119,105,02:14:00
+2025-01-04,Phoenix Suns,Indiana Pacers,19:00,n,0,126,108,02:07:00
+2025-01-04,New York Knicks,Chicago Bulls,20:00,n,0,139,126,02:23:00
+2025-01-04,Utah Jazz,Miami Heat,20:00,n,0,100,136,02:07:00
+2025-01-04,Portland Trail Blazers,Milwaukee Bucks,20:00,n,0,102,105,02:01:00
+2025-01-04,Denver Nuggets,San Antonio Spurs,20:00,n,1,111,122,02:31:00
+2025-01-04,Memphis Grizzlies,Golden State Warriors,20:30,n,0,121,113,02:18:00
+2025-01-04,Atlanta Hawks,Los Angeles Clippers,22:30,n,0,131,105,02:02:00
+2025-01-05,Boston Celtics,Oklahoma City Thunder,15:30,n,0,105,92,02:08:00
+2025-01-05,Charlotte Hornets,Cleveland Cavaliers,18:00,n,0,115,105,02:06:00
+2025-01-05,New Orleans Pelicans,Washington Wizards,18:00,n,0,98,110,02:08:00
+2025-01-05,Utah Jazz,Orlando Magic,18:30,n,0,92,105,02:03:00
+2025-01-05,Los Angeles Lakers,Houston Rockets,19:00,n,0,119,115,02:16:00
+2025-01-05,Sacramento Kings,Golden State Warriors,20:30,n,0,99,129,02:08:00
+2025-01-06,Portland Trail Blazers,Detroit Pistons,19:00,n,0,118,115,02:09:00
+2025-01-06,Phoenix Suns,Philadelphia 76ers,19:00,n,0,99,109,02:16:00
+2025-01-06,Indiana Pacers,Brooklyn Nets,19:30,n,0,99,113,02:12:00
+2025-01-06,Orlando Magic,New York Knicks,19:30,n,0,94,103,02:16:00
+2025-01-06,Milwaukee Bucks,Toronto Raptors,19:30,n,0,104,128,02:05:00
+2025-01-06,San Antonio Spurs,Chicago Bulls,20:00,n,0,114,110,02:13:00
+2025-01-06,Dallas Mavericks,Memphis Grizzlies,20:00,n,0,119,104,02:12:00
+2025-01-06,Los Angeles Clippers,Minnesota Timberwolves,20:00,n,0,108,106,02:17:00
+2025-01-06,Miami Heat,Sacramento Kings,22:00,n,2,123,118,02:43:00
+2025-01-07,Phoenix Suns,Charlotte Hornets,19:00,n,0,115,104,02:16:00
+2025-01-07,Houston Rockets,Washington Wizards,19:00,n,0,112,135,02:05:00
+2025-01-07,Los Angeles Lakers,Dallas Mavericks,19:30,n,0,118,97,02:09:00
+2025-01-07,Minnesota Timberwolves,New Orleans Pelicans,20:00,n,0,97,104,02:18:00
+2025-01-07,Atlanta Hawks,Utah Jazz,21:00,n,0,121,124,02:18:00
+2025-01-07,Boston Celtics,Denver Nuggets,22:00,n,0,106,118,02:16:00
+2025-01-07,Miami Heat,Golden State Warriors,22:00,n,0,98,114,02:01:00
+2025-01-08,Oklahoma City Thunder,Cleveland Cavaliers,19:00,n,0,129,122,02:19:00
+2025-01-08,Chicago Bulls,Indiana Pacers,19:00,n,0,129,113,02:15:00
+2025-01-08,Washington Wizards,Philadelphia 76ers,19:00,n,0,109,103,02:18:00
+2025-01-08,Detroit Pistons,Brooklyn Nets,19:30,n,0,98,113,02:07:00
+2025-01-08,Toronto Raptors,New York Knicks,19:30,n,0,112,98,02:11:00
+2025-01-08,Portland Trail Blazers,New Orleans Pelicans,20:00,n,0,100,119,01:58:00
+2025-01-08,Los Angeles Clippers,Denver Nuggets,21:00,n,0,126,103,02:11:00
+2025-01-08,San Antonio Spurs,Milwaukee Bucks,21:30,n,0,121,105,02:10:00
+2025-01-09,Toronto Raptors,Cleveland Cavaliers,19:00,n,0,132,126,02:08:00
+2025-01-09,Golden State Warriors,Detroit Pistons,19:00,n,0,104,107,02:25:00
+2025-01-09,Minnesota Timberwolves,Orlando Magic,19:00,n,0,89,104,02:16:00
+2025-01-09,Portland Trail Blazers,Dallas Mavericks,19:30,n,0,117,111,02:15:00
+2025-01-09,Houston Rockets,Memphis Grizzlies,20:00,n,0,115,119,02:33:00
+2025-01-09,Atlanta Hawks,Phoenix Suns,21:00,n,0,123,115,02:12:00
+2025-01-09,Miami Heat,Utah Jazz,21:00,n,0,92,97,02:11:00
+2025-01-10,Golden State Warriors,Indiana Pacers,19:00,n,0,108,96,02:03:00
+2025-01-10,Milwaukee Bucks,Orlando Magic,19:00,n,0,106,109,02:24:00
+2025-01-10,New Orleans Pelicans,Philadelphia 76ers,19:00,n,0,115,123,02:12:00
+2025-01-10,Sacramento Kings,Boston Celtics,19:30,n,0,97,114,02:00:00
+2025-01-10,Oklahoma City Thunder,New York Knicks,19:30,n,0,101,126,02:06:00
+2025-01-10,Washington Wizards,Chicago Bulls,20:00,n,0,138,105,02:03:00
+2025-01-10,Brooklyn Nets,Denver Nuggets,21:00,n,0,124,105,02:20:00
+2025-01-11,Utah Jazz,Phoenix Suns,17:00,n,0,114,106,02:10:00
+2025-01-11,Toronto Raptors,Detroit Pistons,19:00,n,0,123,114,02:15:00
+2025-01-11,Memphis Grizzlies,Minnesota Timberwolves,20:00,n,0,125,127,02:17:00
+2025-01-11,Miami Heat,Portland Trail Blazers,22:00,n,0,98,119,02:08:00
+2025-01-12,Denver Nuggets,Dallas Mavericks,15:00,n,0,101,112,02:12:00
+2025-01-12,Milwaukee Bucks,New York Knicks,15:00,n,0,140,106,02:14:00
+2025-01-12,Sacramento Kings,Chicago Bulls,15:30,n,0,119,124,02:06:00
+2025-01-12,New Orleans Pelicans,Boston Celtics,18:00,n,0,120,119,02:15:00
+2025-01-12,Indiana Pacers,Cleveland Cavaliers,18:00,n,0,93,108,02:08:00
+2025-01-12,Philadelphia 76ers,Orlando Magic,18:00,n,0,104,99,02:35:00
+2025-01-12,Oklahoma City Thunder,Washington Wizards,18:00,n,0,95,136,02:18:00
+2025-01-12,Brooklyn Nets,Utah Jazz,20:00,n,1,112,111,02:44:00
+2025-01-12,Charlotte Hornets,Phoenix Suns,21:00,n,0,120,113,02:16:00
+2025-01-13,Minnesota Timberwolves,Washington Wizards,19:00,n,0,106,120,02:12:00
+2025-01-13,Detroit Pistons,New York Knicks,19:30,n,0,119,124,02:17:00
+2025-01-13,Golden State Warriors,Toronto Raptors,19:30,n,0,104,101,02:12:00
+2025-01-13,Memphis Grizzlies,Houston Rockets,20:00,n,0,120,118,02:20:00
+2025-01-13,Miami Heat,Los Angeles Clippers,22:30,n,0,109,98,02:02:00
+2025-01-13,San Antonio Spurs,Los Angeles Lakers,22:30,n,0,102,126,02:14:00
+2025-01-14,Cleveland Cavaliers,Indiana Pacers,19:00,n,0,117,127,02:26:00
+2025-01-14,Oklahoma City Thunder,Philadelphia 76ers,19:00,n,0,102,118,02:05:00
+2025-01-14,Phoenix Suns,Atlanta Hawks,19:30,n,0,122,117,02:11:00
+2025-01-14,New Orleans Pelicans,Chicago Bulls,20:00,n,0,113,119,02:11:00
+2025-01-14,Sacramento Kings,Milwaukee Bucks,20:00,n,0,130,115,02:08:00
+2025-01-14,Denver Nuggets,Dallas Mavericks,21:30,n,0,99,118,02:17:00
+2025-01-14,Brooklyn Nets,Portland Trail Blazers,22:00,n,0,114,132,02:13:00
+2025-01-15,New York Knicks,Philadelphia 76ers,19:00,n,1,119,125,02:34:00
+2025-01-15,Boston Celtics,Toronto Raptors,19:30,n,0,110,97,02:09:00
+2025-01-15,Atlanta Hawks,Chicago Bulls,20:00,n,0,94,110,02:06:00
+2025-01-15,Orlando Magic,Milwaukee Bucks,20:00,n,0,122,93,02:13:00
+2025-01-15,Dallas Mavericks,New Orleans Pelicans,20:00,n,0,119,116,02:13:00
+2025-01-15,Memphis Grizzlies,San Antonio Spurs,20:00,n,0,115,129,02:08:00
+2025-01-15,Houston Rockets,Denver Nuggets,21:00,n,0,108,128,02:07:00
+2025-01-15,Charlotte Hornets,Utah Jazz,21:00,n,0,112,117,02:09:00
+2025-01-15,Golden State Warriors,Minnesota Timberwolves,21:30,n,0,115,116,02:34:00
+2025-01-15,Miami Heat,Los Angeles Lakers,22:00,n,0,117,108,02:03:00
+2025-01-15,Brooklyn Nets,Los Angeles Clippers,22:30,n,0,126,67,02:17:00
+2025-01-16,Indiana Pacers,Detroit Pistons,19:00,n,0,100,111,02:16:00
+2025-01-16,Phoenix Suns,Washington Wizards,19:00,n,0,123,130,02:19:00
+2025-01-16,Cleveland Cavaliers,Oklahoma City Thunder,19:30,n,0,134,114,02:12:00
+2025-01-16,Los Angeles Clippers,Portland Trail Blazers,22:00,n,0,89,118,02:09:00
+2025-01-16,Houston Rockets,Sacramento Kings,22:00,n,0,132,127,02:21:00
+2025-01-17,Orlando Magic,Boston Celtics,19:00,n,0,121,94,02:23:00
+2025-01-17,Minnesota Timberwolves,New York Knicks,19:30,n,0,99,116,02:07:00
+2025-01-17,Charlotte Hornets,Chicago Bulls,20:00,n,0,123,125,02:11:00
+2025-01-17,Denver Nuggets,Miami Heat,20:00,n,0,113,133,02:01:00
+2025-01-17,Toronto Raptors,Milwaukee Bucks,20:00,n,0,130,112,02:17:00
+2025-01-17,Utah Jazz,New Orleans Pelicans,20:00,n,0,136,123,02:23:00
+2025-01-17,Oklahoma City Thunder,Dallas Mavericks,20:30,n,0,106,98,02:31:00
+2025-01-17,Memphis Grizzlies,San Antonio Spurs,21:30,n,0,112,140,02:19:00
+2025-01-17,Brooklyn Nets,Los Angeles Lakers,22:30,n,0,102,101,02:03:00
+2025-01-18,Phoenix Suns,Detroit Pistons,16:00,n,0,121,125,02:27:00
+2025-01-18,Atlanta Hawks,Boston Celtics,19:00,n,1,115,119,02:40:00
+2025-01-18,Philadelphia 76ers,Indiana Pacers,19:00,n,0,115,102,02:20:00
+2025-01-18,Washington Wizards,Golden State Warriors,20:30,n,0,122,114,02:21:00
+2025-01-18,Cleveland Cavaliers,Minnesota Timberwolves,21:00,n,0,117,124,02:16:00
+2025-01-18,Houston Rockets,Portland Trail Blazers,22:00,n,0,103,125,02:05:00
+2025-01-19,San Antonio Spurs,Miami Heat,15:00,n,0,128,107,02:00:00
+2025-01-19,Denver Nuggets,Orlando Magic,18:00,n,0,100,113,02:13:00
+2025-01-19,Philadelphia 76ers,Milwaukee Bucks,19:00,n,0,123,109,02:09:00
+2025-01-19,Brooklyn Nets,Oklahoma City Thunder,19:00,n,0,127,101,02:03:00
+2025-01-19,Los Angeles Lakers,Los Angeles Clippers,21:00,n,0,116,102,02:07:00
+2025-01-19,Chicago Bulls,Portland Trail Blazers,21:00,n,0,113,102,02:18:00
+2025-01-19,Washington Wizards,Sacramento Kings,21:00,n,0,123,100,02:15:00
+2025-01-20,Dallas Mavericks,Charlotte Hornets,12:00,n,0,110,105,02:21:00
+2025-01-20,Detroit Pistons,Houston Rockets,14:00,n,0,96,107,02:04:00
+2025-01-20,Minnesota Timberwolves,Memphis Grizzlies,14:30,n,0,108,106,02:30:00
+2025-01-20,Atlanta Hawks,New York Knicks,15:00,n,0,119,110,02:24:00
+2025-01-20,Phoenix Suns,Cleveland Cavaliers,15:30,n,0,118,92,02:14:00
+2025-01-20,Boston Celtics,Golden State Warriors,17:00,n,0,85,125,02:06:00
+2025-01-20,Utah Jazz,New Orleans Pelicans,20:00,n,1,123,119,02:30:00
+2025-01-20,Chicago Bulls,Los Angeles Clippers,22:30,n,0,99,112,02:15:00
+2025-01-21,New York Knicks,Brooklyn Nets,19:30,n,0,95,99,02:26:00
+2025-01-21,Portland Trail Blazers,Miami Heat,19:30,n,0,107,116,02:08:00
+2025-01-21,Orlando Magic,Toronto Raptors,19:30,n,0,109,93,02:13:00
+2025-01-21,Philadelphia 76ers,Denver Nuggets,22:00,n,0,144,109,02:12:00
+2025-01-21,Washington Wizards,Los Angeles Lakers,22:30,n,0,111,88,02:08:00
+2025-01-22,Detroit Pistons,Atlanta Hawks,19:30,n,0,104,114,02:07:00
+2025-01-22,Phoenix Suns,Brooklyn Nets,19:30,n,0,84,108,02:03:00
+2025-01-22,Minnesota Timberwolves,Dallas Mavericks,19:30,n,0,114,115,02:30:00
+2025-01-22,Cleveland Cavaliers,Houston Rockets,20:00,n,0,109,108,02:16:00
+2025-01-22,Charlotte Hornets,Memphis Grizzlies,20:00,n,0,132,120,02:14:00
+2025-01-22,Utah Jazz,Oklahoma City Thunder,20:00,n,0,123,114,02:18:00
+2025-01-22,Golden State Warriors,Sacramento Kings,22:00,n,0,123,117,02:22:00
+2025-01-22,Boston Celtics,Los Angeles Clippers,22:30,n,1,113,117,02:40:00
+2025-01-23,San Antonio Spurs,Indiana Pacers,14:00,y,0,110,140,02:02:00
+2025-01-23,Portland Trail Blazers,Orlando Magic,19:00,n,0,79,101,02:13:00
+2025-01-23,Toronto Raptors,Atlanta Hawks,19:30,n,0,119,122,02:15:00
+2025-01-23,Dallas Mavericks,Oklahoma City Thunder,20:00,n,0,115,121,02:31:00
+2025-01-23,Miami Heat,Milwaukee Bucks,20:30,n,0,125,96,02:16:00
+2025-01-23,Sacramento Kings,Denver Nuggets,21:00,n,0,132,123,02:12:00
+2025-01-23,Chicago Bulls,Golden State Warriors,22:00,n,0,131,106,02:10:00
+2025-01-23,Boston Celtics,Los Angeles Lakers,22:00,n,0,117,96,02:08:00
+2025-01-23,Washington Wizards,Los Angeles Clippers,22:30,n,0,110,93,02:11:00
+2025-01-24,Portland Trail Blazers,Charlotte Hornets,19:00,n,0,97,102,02:20:00
+2025-01-24,Cleveland Cavaliers,Philadelphia 76ers,19:00,n,0,132,129,02:25:00
+2025-01-24,New Orleans Pelicans,Memphis Grizzlies,20:00,n,0,139,126,02:06:00
+2025-01-25,Indiana Pacers,San Antonio Spurs,12:00,y,0,98,136,02:22:00
+2025-01-25,Denver Nuggets,Minnesota Timberwolves,15:00,n,0,133,104,02:10:00
+2025-01-25,Boston Celtics,Dallas Mavericks,17:30,n,0,107,122,02:27:00
+2025-01-25,Miami Heat,Brooklyn Nets,18:00,n,0,97,106,02:49:00
+2025-01-25,New Orleans Pelicans,Charlotte Hornets,19:00,n,0,123,92,02:07:00
+2025-01-25,Detroit Pistons,Orlando Magic,19:00,n,0,121,113,02:45:00
+2025-01-25,Toronto Raptors,Atlanta Hawks,19:30,n,0,94,117,02:21:00
+2025-01-25,Houston Rockets,Cleveland Cavaliers,19:30,n,0,131,135,02:24:00
+2025-01-25,Sacramento Kings,New York Knicks,19:30,n,0,143,120,02:22:00
+2025-01-25,Philadelphia 76ers,Chicago Bulls,20:00,n,0,97,109,02:07:00
+2025-01-25,Utah Jazz,Memphis Grizzlies,20:00,n,0,125,103,02:20:00
+2025-01-25,Los Angeles Lakers,Golden State Warriors,20:30,n,0,108,118,02:16:00
+2025-01-25,Washington Wizards,Phoenix Suns,21:00,n,0,119,109,02:07:00
+2025-01-25,Milwaukee Bucks,Los Angeles Clippers,22:30,n,0,127,117,02:22:00
+2025-01-26,Oklahoma City Thunder,Portland Trail Blazers,18:00,n,0,108,118,02:19:00
+2025-01-27,Los Angeles Lakers,Charlotte Hornets,19:00,n,0,107,112,02:16:00
+2025-01-27,Detroit Pistons,Cleveland Cavaliers,19:00,n,0,110,91,02:07:00
+2025-01-27,Houston Rockets,Boston Celtics,19:30,n,0,112,114,02:19:00
+2025-01-27,Sacramento Kings,Brooklyn Nets,19:30,n,0,96,110,02:18:00
+2025-01-27,Orlando Magic,Miami Heat,19:30,n,2,125,119,02:41:00
+2025-01-27,Memphis Grizzlies,New York Knicks,19:30,n,0,143,106,02:04:00
+2025-01-27,New Orleans Pelicans,Toronto Raptors,19:30,n,0,113,104,02:17:00
+2025-01-27,Denver Nuggets,Chicago Bulls,20:00,n,0,129,121,01:59:00
+2025-01-27,Atlanta Hawks,Minnesota Timberwolves,20:00,n,0,100,92,02:20:00
+2025-01-27,Washington Wizards,Dallas Mavericks,20:30,n,0,130,108,01:59:00
+2025-01-27,Milwaukee Bucks,Utah Jazz,21:00,n,0,110,125,02:13:00
+2025-01-27,Los Angeles Clippers,Phoenix Suns,21:30,n,0,111,109,02:12:00
+2025-01-28,Houston Rockets,Atlanta Hawks,19:30,n,0,96,100,02:15:00
+2025-01-28,Los Angeles Lakers,Philadelphia 76ers,19:30,n,0,118,104,02:18:00
+2025-01-28,Utah Jazz,Golden State Warriors,22:00,n,0,114,103,02:19:00
+2025-01-28,Milwaukee Bucks,Portland Trail Blazers,22:00,n,0,125,112,02:20:00
+2025-01-29,Brooklyn Nets,Charlotte Hornets,19:00,n,0,83,104,02:09:00
+2025-01-29,Detroit Pistons,Indiana Pacers,19:00,n,0,133,119,02:23:00
+2025-01-29,Toronto Raptors,Washington Wizards,19:00,n,0,82,106,02:19:00
+2025-01-29,Chicago Bulls,Boston Celtics,19:30,n,0,122,100,02:07:00
+2025-01-29,Cleveland Cavaliers,Miami Heat,19:30,n,0,106,126,02:00:00
+2025-01-29,Denver Nuggets,New York Knicks,19:30,n,0,122,112,02:20:00
+2025-01-29,Sacramento Kings,Philadelphia 76ers,19:30,n,0,117,104,02:08:00
+2025-01-29,Dallas Mavericks,New Orleans Pelicans,20:00,n,0,136,137,02:14:00
+2025-01-29,Los Angeles Clippers,San Antonio Spurs,20:00,n,0,116,128,02:09:00
+2025-01-29,Minnesota Timberwolves,Phoenix Suns,21:00,n,0,113,121,02:25:00
+2025-01-29,Oklahoma City Thunder,Golden State Warriors,22:00,n,0,116,109,02:30:00
+2025-01-30,Atlanta Hawks,Cleveland Cavaliers,19:00,n,0,137,115,02:11:00
+2025-01-30,Los Angeles Lakers,Washington Wizards,19:00,n,0,96,134,02:14:00
+2025-01-30,Minnesota Timberwolves,Utah Jazz,21:00,n,0,113,138,02:12:00
+2025-01-30,Houston Rockets,Memphis Grizzlies,21:30,n,0,120,119,02:29:00
+2025-01-30,Orlando Magic,Portland Trail Blazers,22:00,n,0,119,90,02:19:00
+2025-01-31,Los Angeles Clippers,Charlotte Hornets,19:00,n,0,104,112,02:14:00
+2025-01-31,Dallas Mavericks,Detroit Pistons,19:00,n,0,117,102,02:06:00
+2025-01-31,Denver Nuggets,Philadelphia 76ers,19:30,n,0,134,137,02:19:00
+2025-01-31,Chicago Bulls,Toronto Raptors,19:30,n,0,106,122,02:06:00
+2025-01-31,Boston Celtics,New Orleans Pelicans,20:00,n,0,116,118,02:16:00
+2025-01-31,Milwaukee Bucks,San Antonio Spurs,20:00,n,0,144,118,02:21:00
+2025-01-31,Phoenix Suns,Golden State Warriors,22:00,n,0,105,130,
+2025-02-01,Atlanta Hawks,Indiana Pacers,17:00,n,0,132,127,02:28:00
+2025-02-01,Orlando Magic,Utah Jazz,17:00,n,0,113,99,02:16:00
+2025-02-01,Denver Nuggets,Charlotte Hornets,19:00,n,0,104,107,02:10:00
+2025-02-01,Brooklyn Nets,Houston Rockets,20:00,n,0,98,110,02:12:00
+2025-02-01,Washington Wizards,Minnesota Timberwolves,20:00,n,0,103,105,02:16:00
+2025-02-01,Sacramento Kings,Oklahoma City Thunder,20:00,n,0,144,110,02:02:00
+2025-02-01,Los Angeles Lakers,New York Knicks,20:30,n,0,112,128,02:18:00
+2025-02-01,Miami Heat,San Antonio Spurs,20:30,n,0,103,105,02:09:00
+2025-02-01,Phoenix Suns,Portland Trail Blazers,22:00,n,0,127,108,02:11:00
+2025-02-02,Chicago Bulls,Detroit Pistons,15:00,n,0,127,119,02:08:00
+2025-02-02,Dallas Mavericks,Cleveland Cavaliers,15:30,n,0,144,101,01:59:00
+2025-02-02,Los Angeles Clippers,Toronto Raptors,15:30,n,0,115,108,02:04:00
+2025-02-02,Boston Celtics,Philadelphia 76ers,18:00,n,0,110,118,02:22:00
+2025-02-02,Memphis Grizzlies,Milwaukee Bucks,20:30,n,0,119,132,02:18:00
+2025-02-03,Washington Wizards,Charlotte Hornets,19:00,n,0,114,124,02:13:00
+2025-02-03,Atlanta Hawks,Detroit Pistons,19:00,n,0,130,132,02:28:00
+2025-02-03,Houston Rockets,New York Knicks,19:30,n,0,124,118,02:29:00
+2025-02-03,San Antonio Spurs,Memphis Grizzlies,20:00,n,0,128,109,02:48:00
+2025-02-03,Sacramento Kings,Minnesota Timberwolves,20:00,n,0,114,116,02:16:00
+2025-02-03,Milwaukee Bucks,Oklahoma City Thunder,20:00,n,0,125,96,02:00:00
+2025-02-03,New Orleans Pelicans,Denver Nuggets,21:00,n,0,125,113,02:09:00
+2025-02-03,Indiana Pacers,Utah Jazz,21:00,n,0,111,112,02:23:00
+2025-02-03,Orlando Magic,Golden State Warriors,22:00,n,0,104,99,02:19:00
+2025-02-03,Phoenix Suns,Portland Trail Blazers,22:00,n,1,121,119,02:34:00
+2025-02-04,Dallas Mavericks,Philadelphia 76ers,19:00,n,0,118,116,02:17:00
+2025-02-04,Houston Rockets,Brooklyn Nets,19:30,n,0,99,97,02:22:00
+2025-02-04,Boston Celtics,Cleveland Cavaliers,19:30,n,0,105,112,02:26:00
+2025-02-04,New York Knicks,Toronto Raptors,19:30,n,0,115,121,02:15:00
+2025-02-04,Miami Heat,Chicago Bulls,20:00,n,0,133,124,02:11:00
+2025-02-04,Los Angeles Lakers,Los Angeles Clippers,22:00,n,0,97,122,02:13:00
+2025-02-04,Indiana Pacers,Portland Trail Blazers,22:00,n,0,112,89,02:10:00
+2025-02-05,San Antonio Spurs,Atlanta Hawks,19:00,n,0,125,126,02:19:00
+2025-02-05,Milwaukee Bucks,Charlotte Hornets,19:00,n,0,102,112,02:00:00
+2025-02-05,Cleveland Cavaliers,Detroit Pistons,19:00,n,0,115,118,02:34:00
+2025-02-05,Washington Wizards,Brooklyn Nets,19:30,n,0,102,119,02:11:00
+2025-02-05,Miami Heat,Philadelphia 76ers,19:30,n,0,101,108,02:18:00
+2025-02-05,Memphis Grizzlies,Toronto Raptors,19:30,n,0,107,138,02:13:00
+2025-02-05,Chicago Bulls,Minnesota Timberwolves,20:00,n,0,127,108,02:17:00
+2025-02-05,New Orleans Pelicans,Denver Nuggets,21:00,n,0,144,119,02:06:00
+2025-02-05,Golden State Warriors,Utah Jazz,21:00,n,0,131,128,02:27:00
+2025-02-05,Phoenix Suns,Oklahoma City Thunder,21:30,n,0,140,109,02:19:00
+2025-02-05,Orlando Magic,Sacramento Kings,22:00,n,0,111,130,02:13:00
+2025-02-06,Dallas Mavericks,Boston Celtics,19:30,n,0,120,127,02:09:00
+2025-02-06,Houston Rockets,Minnesota Timberwolves,20:00,n,0,127,114,02:18:00
+2025-02-06,Orlando Magic,Denver Nuggets,21:00,n,0,112,90,02:09:00
+2025-02-06,Golden State Warriors,Los Angeles Lakers,22:00,n,0,120,112,02:30:00
+2025-02-06,Sacramento Kings,Portland Trail Blazers,22:00,n,0,108,102,02:08:00
+2025-02-06,Indiana Pacers,Los Angeles Clippers,22:30,n,0,112,119,02:14:00
+2025-02-07,San Antonio Spurs,Charlotte Hornets,19:00,n,0,117,116,02:20:00
+2025-02-07,Cleveland Cavaliers,Washington Wizards,19:00,n,0,124,134,02:19:00
+2025-02-07,Milwaukee Bucks,Atlanta Hawks,19:30,n,0,115,110,02:11:00
+2025-02-07,Miami Heat,Brooklyn Nets,19:30,n,0,102,86,02:11:00
+2025-02-07,Philadelphia 76ers,Detroit Pistons,19:30,n,0,125,112,02:29:00
+2025-02-07,Toronto Raptors,Oklahoma City Thunder,20:00,n,0,121,109,02:18:00
+2025-02-07,Utah Jazz,Phoenix Suns,22:00,n,1,135,127,02:24:00
+2025-02-08,Houston Rockets,Dallas Mavericks,15:00,n,0,116,105,02:25:00
+2025-02-08,Indiana Pacers,Los Angeles Lakers,16:00,n,0,124,117,02:37:00
+2025-02-08,San Antonio Spurs,Orlando Magic,19:00,n,0,112,111,02:11:00
+2025-02-08,Atlanta Hawks,Washington Wizards,19:00,n,0,111,125,02:08:00
+2025-02-08,Golden State Warriors,Chicago Bulls,20:00,n,0,111,132,02:22:00
+2025-02-08,Oklahoma City Thunder,Memphis Grizzlies,20:00,n,0,112,125,02:20:00
+2025-02-08,Portland Trail Blazers,Minnesota Timberwolves,20:00,n,0,114,98,02:16:00
+2025-02-08,Boston Celtics,New York Knicks,20:30,n,0,104,131,02:13:00
+2025-02-08,Denver Nuggets,Phoenix Suns,21:00,n,0,105,122,02:04:00
+2025-02-08,New Orleans Pelicans,Sacramento Kings,22:00,n,0,123,118,02:25:00
+2025-02-08,Utah Jazz,Los Angeles Clippers,22:30,n,0,130,110,02:09:00
+2025-02-09,Charlotte Hornets,Detroit Pistons,13:00,n,0,112,102,02:15:00
+2025-02-09,Toronto Raptors,Houston Rockets,14:00,n,0,94,87,02:18:00
+2025-02-09,Philadelphia 76ers,Milwaukee Bucks,14:00,n,0,135,127,02:20:00
+2025-02-10,Minnesota Timberwolves,Cleveland Cavaliers,19:00,n,0,128,107,02:13:00
+2025-02-10,Atlanta Hawks,Orlando Magic,19:00,n,0,106,112,02:21:00
+2025-02-10,San Antonio Spurs,Washington Wizards,19:00,n,0,121,131,02:18:00
+2025-02-10,Charlotte Hornets,Brooklyn Nets,19:30,n,0,97,89,02:14:00
+2025-02-10,Boston Celtics,Miami Heat,19:30,n,0,85,103,01:53:00
+2025-02-10,Golden State Warriors,Milwaukee Bucks,20:00,n,0,111,125,02:23:00
+2025-02-10,New Orleans Pelicans,Oklahoma City Thunder,20:00,n,0,137,101,02:09:00
+2025-02-10,Sacramento Kings,Dallas Mavericks,20:30,n,1,128,129,02:33:00
+2025-02-10,Portland Trail Blazers,Denver Nuggets,21:00,n,0,146,117,02:10:00
+2025-02-10,Utah Jazz,Los Angeles Lakers,22:30,n,0,132,113,02:14:00
+2025-02-11,Toronto Raptors,Philadelphia 76ers,19:00,n,0,103,106,02:08:00
+2025-02-11,New York Knicks,Indiana Pacers,19:30,n,0,115,128,02:26:00
+2025-02-11,Detroit Pistons,Chicago Bulls,20:00,n,0,92,132,02:01:00
+2025-02-11,Memphis Grizzlies,Phoenix Suns,22:00,n,0,112,119,02:30:00
+2025-02-12,San Antonio Spurs,Boston Celtics,19:00,n,0,116,103,02:06:00
+2025-02-12,Charlotte Hornets,Orlando Magic,19:00,n,0,102,86,02:04:00
+2025-02-12,Indiana Pacers,Washington Wizards,19:00,n,1,130,134,02:35:00
+2025-02-12,Philadelphia 76ers,Brooklyn Nets,19:30,n,0,100,96,02:16:00
+2025-02-12,Atlanta Hawks,New York Knicks,19:30,n,1,149,148,02:54:00
+2025-02-12,Cleveland Cavaliers,Toronto Raptors,19:30,n,0,108,131,02:05:00
+2025-02-12,Detroit Pistons,Chicago Bulls,20:00,n,0,110,128,02:20:00
+2025-02-12,Milwaukee Bucks,Minnesota Timberwolves,20:00,n,0,101,103,02:06:00
+2025-02-12,Sacramento Kings,New Orleans Pelicans,20:00,n,0,111,119,02:14:00
+2025-02-12,Miami Heat,Oklahoma City Thunder,20:00,n,0,115,101,02:10:00
+2025-02-12,Phoenix Suns,Houston Rockets,20:30,n,0,119,111,02:06:00
+2025-02-12,Portland Trail Blazers,Denver Nuggets,21:00,n,0,132,121,02:13:00
+2025-02-12,Los Angeles Lakers,Utah Jazz,21:00,n,0,131,119,02:11:00
+2025-02-12,Golden State Warriors,Dallas Mavericks,21:30,n,0,111,107,02:29:00
+2025-02-12,Memphis Grizzlies,Los Angeles Clippers,22:30,n,0,128,114,02:13:00
+2025-02-13,Golden State Warriors,Houston Rockets,20:00,n,0,98,105,02:17:00
+2025-02-13,Sacramento Kings,New Orleans Pelicans,20:00,n,1,140,133,02:39:00
+2025-02-13,Miami Heat,Dallas Mavericks,20:30,n,0,118,113,02:11:00
+2025-02-13,Oklahoma City Thunder,Minnesota Timberwolves,20:30,n,0,116,101,02:20:00
+2025-02-13,Los Angeles Clippers,Utah Jazz,21:00,n,1,116,120,02:40:00
+2025-02-19,Charlotte Hornets,Los Angeles Lakers,22:00,n,0,97,100,02:15:00
+2025-02-20,Memphis Grizzlies,Indiana Pacers,19:00,n,0,127,113,02:13:00
+2025-02-20,Boston Celtics,Philadelphia 76ers,19:00,n,0,104,124,02:09:00
+2025-02-20,Orlando Magic,Atlanta Hawks,19:30,n,0,108,114,02:28:00
+2025-02-20,Cleveland Cavaliers,Brooklyn Nets,19:30,n,0,97,110,02:19:00
+2025-02-20,Chicago Bulls,New York Knicks,19:30,n,1,113,111,02:22:00
+2025-02-20,Los Angeles Clippers,Milwaukee Bucks,20:00,n,0,116,110,02:20:00
+2025-02-20,Charlotte Hornets,Denver Nuggets,21:00,n,0,129,115,01:58:00
+2025-02-20,Phoenix Suns,San Antonio Spurs,21:30,y,0,120,109,02:25:00
+2025-02-20,Los Angeles Lakers,Portland Trail Blazers,22:00,n,0,102,110,02:21:00
+2025-02-21,New York Knicks,Cleveland Cavaliers,19:00,n,0,142,105,02:09:00
+2025-02-21,Memphis Grizzlies,Orlando Magic,19:00,n,0,104,105,02:26:00
+2025-02-21,Milwaukee Bucks,Washington Wizards,19:00,n,0,101,104,02:23:00
+2025-02-21,Miami Heat,Toronto Raptors,19:30,n,1,111,120,02:19:00
+2025-02-21,New Orleans Pelicans,Dallas Mavericks,20:30,n,0,111,103,02:15:00
+2025-02-21,Detroit Pistons,San Antonio Spurs,20:30,y,0,110,125,02:11:00
+2025-02-21,Minnesota Timberwolves,Houston Rockets,21:30,n,0,121,115,02:33:00
+2025-02-21,Oklahoma City Thunder,Utah Jazz,21:30,n,0,107,130,02:03:00
+2025-02-21,Golden State Warriors,Sacramento Kings,22:00,n,0,108,132,02:08:00
+2025-02-22,Phoenix Suns,Chicago Bulls,17:00,n,0,117,121,02:06:00
+2025-02-22,Brooklyn Nets,Philadelphia 76ers,19:30,n,0,103,105,02:14:00
+2025-02-22,Los Angeles Lakers,Denver Nuggets,20:30,n,0,100,123,02:24:00
+2025-02-22,Houston Rockets,Utah Jazz,21:30,n,0,124,115,02:08:00
+2025-02-22,Charlotte Hornets,Portland Trail Blazers,22:00,n,0,141,88,02:04:00
+2025-02-23,New York Knicks,Boston Celtics,13:00,n,0,118,105,02:06:00
+2025-02-23,Dallas Mavericks,Golden State Warriors,15:30,n,0,126,102,02:15:00
+2025-02-23,Los Angeles Clippers,Indiana Pacers,17:00,n,0,129,111,02:19:00
+2025-02-23,Detroit Pistons,Atlanta Hawks,18:00,n,0,143,148,02:30:00
+2025-02-23,Miami Heat,Milwaukee Bucks,18:00,n,0,120,113,02:18:00
+2025-02-23,Washington Wizards,Orlando Magic,18:00,n,0,110,90,02:20:00
+2025-02-23,Phoenix Suns,Toronto Raptors,18:00,n,0,127,109,02:15:00
+2025-02-23,Memphis Grizzlies,Cleveland Cavaliers,19:00,n,0,129,123,02:41:00
+2025-02-23,San Antonio Spurs,New Orleans Pelicans,19:00,n,0,114,96,02:16:00
+2025-02-23,Oklahoma City Thunder,Minnesota Timberwolves,21:30,n,0,123,130,02:25:00
+2025-02-24,Los Angeles Clippers,Detroit Pistons,19:00,n,0,106,97,02:25:00
+2025-02-24,Denver Nuggets,Indiana Pacers,19:00,n,0,116,125,02:09:00
+2025-02-24,Chicago Bulls,Philadelphia 76ers,19:00,n,0,110,142,02:20:00
+2025-02-24,Brooklyn Nets,Washington Wizards,19:00,n,0,107,99,02:34:00
+2025-02-24,Miami Heat,Atlanta Hawks,19:30,n,0,98,86,02:14:00
+2025-02-24,Minnesota Timberwolves,Oklahoma City Thunder,20:00,n,1,128,131,02:35:00
+2025-02-24,Portland Trail Blazers,Utah Jazz,21:00,n,0,112,114,02:25:00
+2025-02-24,Charlotte Hornets,Sacramento Kings,22:00,n,0,130,88,02:13:00
+2025-02-25,Boston Celtics,Toronto Raptors,19:00,n,0,101,111,02:02:00
+2025-02-25,Cleveland Cavaliers,Orlando Magic,19:30,n,0,82,122,02:07:00
+2025-02-25,Milwaukee Bucks,Houston Rockets,20:00,n,0,100,97,02:14:00
+2025-02-25,Phoenix Suns,Memphis Grizzlies,20:00,n,1,151,148,02:38:00
+2025-02-25,San Antonio Spurs,New Orleans Pelicans,20:00,n,0,109,103,02:20:00
+2025-02-25,Charlotte Hornets,Golden State Warriors,22:00,n,0,128,92,02:05:00
+2025-02-25,Dallas Mavericks,Los Angeles Lakers,22:00,n,0,107,99,02:16:00
+2025-02-26,Boston Celtics,Detroit Pistons,19:00,n,0,117,97,02:01:00
+2025-02-26,Toronto Raptors,Indiana Pacers,19:00,n,0,111,91,02:05:00
+2025-02-26,Philadelphia 76ers,New York Knicks,19:00,n,0,110,105,02:25:00
+2025-02-26,Portland Trail Blazers,Washington Wizards,19:00,n,0,121,129,02:29:00
+2025-02-26,Oklahoma City Thunder,Brooklyn Nets,19:30,n,0,121,129,02:30:00
+2025-02-26,Atlanta Hawks,Miami Heat,19:30,n,0,131,109,02:02:00
+2025-02-26,Los Angeles Clippers,Chicago Bulls,20:00,n,0,117,122,02:04:00
+2025-02-26,Sacramento Kings,Utah Jazz,21:00,n,0,101,118,02:03:00
+2025-02-26,San Antonio Spurs,Houston Rockets,21:30,n,0,118,106,02:11:00
+2025-02-27,Golden State Warriors,Orlando Magic,19:00,n,0,115,121,02:22:00
+2025-02-27,Denver Nuggets,Milwaukee Bucks,20:00,n,0,121,112,02:15:00
+2025-02-27,Charlotte Hornets,Dallas Mavericks,20:30,n,0,103,96,02:08:00
+2025-02-27,New Orleans Pelicans,Phoenix Suns,21:00,n,0,116,124,01:58:00
+2025-02-27,Minnesota Timberwolves,Los Angeles Lakers,22:30,n,0,111,102,02:28:00
+2025-02-28,Denver Nuggets,Detroit Pistons,19:00,n,0,119,134,02:14:00
+2025-02-28,Oklahoma City Thunder,Atlanta Hawks,19:30,n,0,119,135,02:04:00
+2025-02-28,Cleveland Cavaliers,Boston Celtics,19:30,n,0,116,123,02:15:00
+2025-02-28,Portland Trail Blazers,Brooklyn Nets,19:30,n,0,102,121,02:20:00
+2025-02-28,Toronto Raptors,Chicago Bulls,20:00,n,1,125,115,02:34:00
+2025-02-28,New York Knicks,Memphis Grizzlies,20:00,n,0,113,114,02:18:00
+2025-02-28,Indiana Pacers,Miami Heat,20:00,n,0,125,120,02:07:00
+2025-02-28,New Orleans Pelicans,Phoenix Suns,21:00,n,0,125,108,02:03:00
+2025-02-28,Minnesota Timberwolves,Utah Jazz,21:30,n,0,117,116,02:02:00
+2025-02-28,Los Angeles Clippers,Los Angeles Lakers,22:00,n,0,106,102,02:25:00
+2025-03-01,Washington Wizards,Charlotte Hornets,18:00,n,0,100,113,01:59:00
+2025-03-01,Brooklyn Nets,Detroit Pistons,19:00,n,0,115,94,02:23:00
+2025-03-01,Sacramento Kings,Houston Rockets,20:00,n,0,103,113,02:10:00
+2025-03-01,San Antonio Spurs,Memphis Grizzlies,20:00,n,0,128,130,02:18:00
+2025-03-01,Milwaukee Bucks,Dallas Mavericks,20:30,n,0,117,132,02:16:00
+2025-03-01,Golden State Warriors,Philadelphia 76ers,20:30,n,0,126,119,02:30:00
+2025-03-02,Denver Nuggets,Boston Celtics,13:00,n,0,110,103,02:18:00
+2025-03-02,Portland Trail Blazers,Cleveland Cavaliers,15:30,n,1,133,129,02:51:00
+2025-03-02,Chicago Bulls,Indiana Pacers,17:00,n,0,127,112,02:05:00
+2025-03-02,New York Knicks,Miami Heat,18:00,n,1,112,116,02:32:00
+2025-03-02,Toronto Raptors,Orlando Magic,18:00,n,0,102,104,02:38:00
+2025-03-02,Oklahoma City Thunder,San Antonio Spurs,19:00,n,0,132,146,02:21:00
+2025-03-02,New Orleans Pelicans,Utah Jazz,20:00,n,0,121,128,02:10:00
+2025-03-02,Los Angeles Clippers,Los Angeles Lakers,21:30,n,0,108,102,02:14:00
+2025-03-02,Minnesota Timberwolves,Phoenix Suns,21:30,n,0,98,116,02:18:00
+2025-03-03,Golden State Warriors,Charlotte Hornets,19:00,n,0,101,119,02:24:00
+2025-03-03,Portland Trail Blazers,Philadelphia 76ers,19:00,n,0,102,119,02:01:00
+2025-03-03,Washington Wizards,Miami Heat,19:30,n,0,106,90,02:09:00
+2025-03-03,Atlanta Hawks,Memphis Grizzlies,20:00,n,0,130,132,02:13:00
+2025-03-03,Houston Rockets,Oklahoma City Thunder,20:00,n,0,137,128,02:06:00
+2025-03-03,Sacramento Kings,Dallas Mavericks,20:30,n,0,98,122,02:05:00
+2025-03-03,Detroit Pistons,Utah Jazz,21:00,n,0,106,134,02:19:00
+2025-03-04,Houston Rockets,Indiana Pacers,19:00,n,0,115,102,02:09:00
+2025-03-04,Toronto Raptors,Orlando Magic,19:00,n,0,113,114,02:42:00
+2025-03-04,Milwaukee Bucks,Atlanta Hawks,19:30,n,0,121,127,02:12:00
+2025-03-04,Golden State Warriors,New York Knicks,19:30,n,0,102,114,02:22:00
+2025-03-04,Cleveland Cavaliers,Chicago Bulls,20:00,n,0,117,139,02:21:00
+2025-03-04,Philadelphia 76ers,Minnesota Timberwolves,20:00,n,0,126,112,02:11:00
+2025-03-04,Brooklyn Nets,San Antonio Spurs,20:30,n,0,127,113,02:05:00
+2025-03-04,Los Angeles Clippers,Phoenix Suns,22:00,n,0,119,117,02:26:00
+2025-03-04,New Orleans Pelicans,Los Angeles Lakers,22:30,n,0,136,115,02:10:00
+2025-03-05,Portland Trail Blazers,Boston Celtics,19:00,n,0,128,118,02:05:00
+2025-03-05,Minnesota Timberwolves,Charlotte Hornets,19:00,n,0,110,125,02:10:00
+2025-03-05,Miami Heat,Cleveland Cavaliers,19:00,n,0,112,107,02:19:00
+2025-03-05,Utah Jazz,Washington Wizards,19:00,n,0,125,122,02:20:00
+2025-03-05,Dallas Mavericks,Milwaukee Bucks,20:00,n,0,137,107,01:55:00
+2025-03-05,Sacramento Kings,Denver Nuggets,21:00,n,0,116,110,02:18:00
+2025-03-05,Oklahoma City Thunder,Memphis Grizzlies,21:30,n,0,103,120,02:26:00
+2025-03-05,Detroit Pistons,Los Angeles Clippers,22:30,n,0,123,115,02:14:00
+2025-03-06,Chicago Bulls,Orlando Magic,19:00,n,0,123,125,02:37:00
+2025-03-06,Indiana Pacers,Atlanta Hawks,19:30,n,0,124,118,02:14:00
+2025-03-06,Philadelphia 76ers,Boston Celtics,19:30,n,0,123,105,02:12:00
+2025-03-06,Golden State Warriors,Brooklyn Nets,19:30,n,0,119,121,02:30:00
+2025-03-06,Houston Rockets,New Orleans Pelicans,20:00,n,0,97,109,02:21:00
+2025-03-06,New York Knicks,Los Angeles Lakers,22:00,n,1,113,109,02:52:00
+2025-03-07,Cleveland Cavaliers,Charlotte Hornets,19:00,n,0,117,118,02:34:00
+2025-03-07,Memphis Grizzlies,Dallas Mavericks,19:30,n,0,111,122,02:12:00
+2025-03-07,Utah Jazz,Toronto Raptors,19:30,n,0,118,109,02:19:00
+2025-03-07,Minnesota Timberwolves,Miami Heat,20:00,n,0,104,106,02:11:00
+2025-03-07,Portland Trail Blazers,Oklahoma City Thunder,20:00,n,0,107,89,02:07:00
+2025-03-07,Phoenix Suns,Denver Nuggets,22:00,n,1,149,141,02:34:00
+2025-03-07,San Antonio Spurs,Sacramento Kings,22:00,n,0,127,109,02:12:00
+2025-03-07,New York Knicks,Los Angeles Clippers,22:30,n,0,105,95,02:12:00
+2025-03-08,Brooklyn Nets,Charlotte Hornets,18:00,n,0,105,102,02:11:00
+2025-03-08,New Orleans Pelicans,Houston Rockets,19:00,n,0,146,117,02:06:00
+2025-03-08,Indiana Pacers,Atlanta Hawks,19:30,n,0,120,118,02:32:00
+2025-03-08,Washington Wizards,Toronto Raptors,19:30,n,0,117,118,02:19:00
+2025-03-08,Chicago Bulls,Miami Heat,20:00,n,0,109,114,02:13:00
+2025-03-08,Orlando Magic,Milwaukee Bucks,20:00,n,0,109,111,02:27:00
+2025-03-08,Los Angeles Lakers,Boston Celtics,20:30,n,0,111,101,02:18:00
+2025-03-08,Detroit Pistons,Golden State Warriors,20:30,n,0,115,110,02:44:00
+2025-03-09,Denver Nuggets,Oklahoma City Thunder,13:00,n,0,127,103,02:17:00
+2025-03-09,Phoenix Suns,Dallas Mavericks,15:30,n,0,116,125,02:05:00
+2025-03-09,Memphis Grizzlies,New Orleans Pelicans,19:00,n,0,104,107,02:20:00
+2025-03-09,Utah Jazz,Philadelphia 76ers,19:30,n,0,126,122,02:20:00
+2025-03-09,Cleveland Cavaliers,Milwaukee Bucks,20:00,n,0,100,112,02:12:00
+2025-03-09,San Antonio Spurs,Minnesota Timberwolves,20:00,n,0,141,124,02:07:00
+2025-03-09,Detroit Pistons,Portland Trail Blazers,21:00,n,0,112,119,02:22:00
+2025-03-09,Sacramento Kings,Los Angeles Clippers,21:30,n,1,111,110,02:37:00
+2025-03-10,Philadelphia 76ers,Atlanta Hawks,19:30,n,0,132,123,02:12:00
+2025-03-10,Utah Jazz,Boston Celtics,19:30,n,0,114,108,02:07:00
+2025-03-10,Los Angeles Lakers,Brooklyn Nets,19:30,n,0,111,108,02:18:00
+2025-03-10,Charlotte Hornets,Miami Heat,19:30,n,0,102,105,02:15:00
+2025-03-10,Washington Wizards,Toronto Raptors,19:30,n,0,119,104,02:06:00
+2025-03-10,Indiana Pacers,Chicago Bulls,20:00,n,0,121,103,02:09:00
+2025-03-10,Orlando Magic,Houston Rockets,20:00,n,0,97,84,02:14:00
+2025-03-10,Phoenix Suns,Memphis Grizzlies,20:00,n,0,120,118,02:33:00
+2025-03-10,Denver Nuggets,Oklahoma City Thunder,20:00,n,0,127,140,02:09:00
+2025-03-10,Dallas Mavericks,San Antonio Spurs,20:30,n,0,129,133,02:16:00
+2025-03-10,Portland Trail Blazers,Golden State Warriors,22:00,n,0,130,120,02:12:00
+2025-03-10,New York Knicks,Sacramento Kings,22:30,n,0,104,133,02:22:00
+2025-03-11,Brooklyn Nets,Cleveland Cavaliers,19:00,n,0,,,
+2025-03-11,Washington Wizards,Detroit Pistons,19:00,n,0,,,
+2025-03-11,Milwaukee Bucks,Indiana Pacers,19:30,n,0,,,
+2025-03-11,Los Angeles Clippers,New Orleans Pelicans,20:00,n,0,,,
+2025-03-12,Charlotte Hornets,Atlanta Hawks,19:30,n,0,,,
+2025-03-12,Oklahoma City Thunder,Boston Celtics,19:30,n,0,,,
+2025-03-12,Philadelphia 76ers,Toronto Raptors,19:30,n,0,,,
+2025-03-12,Phoenix Suns,Houston Rockets,20:00,n,0,,,
+2025-03-12,Utah Jazz,Memphis Grizzlies,20:00,n,0,,,
+2025-03-12,Los Angeles Clippers,Miami Heat,20:00,n,0,,,
+2025-03-12,Dallas Mavericks,San Antonio Spurs,20:00,n,0,,,
+2025-03-12,Minnesota Timberwolves,Denver Nuggets,22:00,n,0,,,
+2025-03-12,New York Knicks,Portland Trail Blazers,22:00,n,0,,,
+2025-03-13,Washington Wizards,Detroit Pistons,19:00,n,0,,,
+2025-03-13,Los Angeles Lakers,Milwaukee Bucks,19:30,n,0,,,
+2025-03-13,Brooklyn Nets,Chicago Bulls,20:00,n,0,,,
+2025-03-13,Orlando Magic,New Orleans Pelicans,20:00,n,0,,,
+2025-03-13,Sacramento Kings,Golden State Warriors,22:00,n,0,,,
+2025-03-14,Boston Celtics,Miami Heat,19:00,n,0,,,
+2025-03-14,Indiana Pacers,Philadelphia 76ers,19:00,n,0,,,
+2025-03-14,Los Angeles Clippers,Atlanta Hawks,19:30,n,0,,,
+2025-03-14,Dallas Mavericks,Houston Rockets,20:00,n,0,,,
+2025-03-14,Cleveland Cavaliers,Memphis Grizzlies,20:00,n,0,,,
+2025-03-14,Orlando Magic,Minnesota Timberwolves,20:00,n,0,,,
+2025-03-14,Charlotte Hornets,San Antonio Spurs,20:00,n,0,,,
+2025-03-14,Los Angeles Lakers,Denver Nuggets,21:30,n,0,,,
+2025-03-14,Toronto Raptors,Utah Jazz,21:30,n,0,,,
+2025-03-14,Sacramento Kings,Phoenix Suns,22:00,n,0,,,
+2025-03-15,Boston Celtics,Brooklyn Nets,18:00,n,0,,,
+2025-03-15,Oklahoma City Thunder,Detroit Pistons,19:00,n,0,,,
+2025-03-15,Chicago Bulls,Houston Rockets,20:00,n,0,,,
+2025-03-15,Miami Heat,Memphis Grizzlies,20:00,n,0,,,
+2025-03-15,Indiana Pacers,Milwaukee Bucks,20:00,n,0,,,
+2025-03-15,New York Knicks,Golden State Warriors,20:30,n,0,,,
+2025-03-15,New Orleans Pelicans,San Antonio Spurs,20:30,n,0,,,
+2025-03-15,Washington Wizards,Denver Nuggets,21:00,n,0,,,
+2025-03-16,Orlando Magic,Cleveland Cavaliers,13:00,n,0,,,
+2025-03-16,Philadelphia 76ers,Dallas Mavericks,13:00,n,0,,,
+2025-03-16,Phoenix Suns,Los Angeles Lakers,15:30,n,0,,,
+2025-03-16,Atlanta Hawks,Brooklyn Nets,18:00,n,0,,,
+2025-03-16,Toronto Raptors,Portland Trail Blazers,18:00,n,0,,,
+2025-03-16,Charlotte Hornets,Los Angeles Clippers,19:00,n,0,,,
+2025-03-16,Utah Jazz,Minnesota Timberwolves,19:00,n,0,,,
+2025-03-16,Oklahoma City Thunder,Milwaukee Bucks,21:00,n,0,,,
+2025-03-17,Miami Heat,New York Knicks,19:30,n,0,,,
+2025-03-17,Philadelphia 76ers,Houston Rockets,20:00,n,0,,,
+2025-03-17,Indiana Pacers,Minnesota Timberwolves,20:00,n,0,,,
+2025-03-17,Detroit Pistons,New Orleans Pelicans,20:00,n,0,,,
+2025-03-17,Chicago Bulls,Utah Jazz,21:00,n,0,,,
+2025-03-17,Denver Nuggets,Golden State Warriors,22:00,n,0,,,
+2025-03-17,Toronto Raptors,Phoenix Suns,22:00,n,0,,,
+2025-03-17,Washington Wizards,Portland Trail Blazers,22:00,n,0,,,
+2025-03-17,Memphis Grizzlies,Sacramento Kings,22:00,n,0,,,
+2025-03-17,San Antonio Spurs,Los Angeles Lakers,22:30,n,0,,,
+2025-03-18,Atlanta Hawks,Charlotte Hornets,19:00,n,0,,,
+2025-03-18,Brooklyn Nets,Boston Celtics,19:30,n,0,,,
+2025-03-18,Milwaukee Bucks,Golden State Warriors,22:00,n,0,,,
+2025-03-18,Cleveland Cavaliers,Los Angeles Clippers,22:30,n,0,,,
+2025-03-19,Dallas Mavericks,Indiana Pacers,19:00,n,0,,,
+2025-03-19,Houston Rockets,Orlando Magic,19:00,n,0,,,
+2025-03-19,Detroit Pistons,Miami Heat,19:30,n,0,,,
+2025-03-19,New Orleans Pelicans,Minnesota Timberwolves,19:30,n,0,,,
+2025-03-19,Philadelphia 76ers,Oklahoma City Thunder,20:00,n,0,,,
+2025-03-19,New York Knicks,San Antonio Spurs,20:00,n,0,,,
+2025-03-19,Washington Wizards,Utah Jazz,21:00,n,0,,,
+2025-03-19,Denver Nuggets,Los Angeles Lakers,22:00,n,0,,,
+2025-03-19,Chicago Bulls,Phoenix Suns,22:00,n,0,,,
+2025-03-19,Memphis Grizzlies,Portland Trail Blazers,22:00,n,0,,,
+2025-03-19,Cleveland Cavaliers,Sacramento Kings,22:00,n,0,,,
+2025-03-20,New York Knicks,Charlotte Hornets,19:00,n,0,,,
+2025-03-20,Brooklyn Nets,Indiana Pacers,19:00,n,0,,,
+2025-03-20,Toronto Raptors,Golden State Warriors,22:00,n,0,,,
+2025-03-20,Chicago Bulls,Sacramento Kings,22:00,n,0,,,
+2025-03-20,Milwaukee Bucks,Los Angeles Lakers,22:30,n,0,,,
+2025-03-21,Orlando Magic,Washington Wizards,19:00,n,0,,,
+2025-03-21,Houston Rockets,Miami Heat,20:00,n,0,,,
+2025-03-21,New Orleans Pelicans,Minnesota Timberwolves,20:00,n,0,,,
+2025-03-21,Charlotte Hornets,Oklahoma City Thunder,20:00,n,0,,,
+2025-03-21,Philadelphia 76ers,San Antonio Spurs,20:00,n,0,,,
+2025-03-21,Detroit Pistons,Dallas Mavericks,20:30,n,0,,,
+2025-03-21,Boston Celtics,Utah Jazz,21:30,n,0,,,
+2025-03-21,Cleveland Cavaliers,Phoenix Suns,22:00,n,0,,,
+2025-03-21,Denver Nuggets,Portland Trail Blazers,22:00,n,0,,,
+2025-03-21,Memphis Grizzlies,Los Angeles Clippers,22:30,n,0,,,
+2025-03-22,Brooklyn Nets,Indiana Pacers,17:00,n,0,,,
+2025-03-22,Golden State Warriors,Atlanta Hawks,19:00,n,0,,,
+2025-03-22,Washington Wizards,New York Knicks,20:00,n,0,,,
+2025-03-22,Milwaukee Bucks,Sacramento Kings,22:00,n,0,,,
+2025-03-22,Chicago Bulls,Los Angeles Lakers,22:30,n,0,,,
+2025-03-23,New Orleans Pelicans,Detroit Pistons,15:00,n,0,,,
+2025-03-23,Cleveland Cavaliers,Utah Jazz,15:30,n,0,,,
+2025-03-23,Philadelphia 76ers,Atlanta Hawks,18:00,n,0,,,
+2025-03-23,Charlotte Hornets,Miami Heat,18:00,n,0,,,
+2025-03-23,Boston Celtics,Portland Trail Blazers,18:00,n,0,,,
+2025-03-23,San Antonio Spurs,Toronto Raptors,18:00,n,0,,,
+2025-03-23,Denver Nuggets,Houston Rockets,19:00,n,0,,,
+2025-03-23,Oklahoma City Thunder,Los Angeles Clippers,21:00,n,0,,,
+2025-03-24,Minnesota Timberwolves,Indiana Pacers,19:00,n,0,,,
+2025-03-24,Los Angeles Lakers,Orlando Magic,19:00,n,0,,,
+2025-03-24,Toronto Raptors,Washington Wizards,19:00,n,0,,,
+2025-03-24,Dallas Mavericks,Brooklyn Nets,19:30,n,0,,,
+2025-03-24,Philadelphia 76ers,New Orleans Pelicans,20:00,n,0,,,
+2025-03-24,Chicago Bulls,Denver Nuggets,21:00,n,0,,,
+2025-03-24,Milwaukee Bucks,Phoenix Suns,22:00,n,0,,,
+2025-03-24,Boston Celtics,Sacramento Kings,22:00,n,0,,,
+2025-03-25,Orlando Magic,Charlotte Hornets,19:00,n,0,,,
+2025-03-25,San Antonio Spurs,Detroit Pistons,19:00,n,0,,,
+2025-03-25,Golden State Warriors,Miami Heat,19:30,n,0,,,
+2025-03-25,Dallas Mavericks,New York Knicks,19:30,n,0,,,
+2025-03-25,Atlanta Hawks,Houston Rockets,20:00,n,0,,,
+2025-03-25,Memphis Grizzlies,Utah Jazz,21:00,n,0,,,
+2025-03-25,Cleveland Cavaliers,Portland Trail Blazers,22:00,n,0,,,
+2025-03-25,Oklahoma City Thunder,Sacramento Kings,22:00,n,0,,,
+2025-03-26,Washington Wizards,Philadelphia 76ers,19:00,n,0,,,
+2025-03-26,Toronto Raptors,Brooklyn Nets,19:30,n,0,,,
+2025-03-26,Los Angeles Lakers,Indiana Pacers,19:30,n,0,,,
+2025-03-26,Los Angeles Clippers,New York Knicks,19:30,n,0,,,
+2025-03-26,Milwaukee Bucks,Denver Nuggets,21:00,n,0,,,
+2025-03-26,Boston Celtics,Phoenix Suns,22:00,n,0,,,
+2025-03-27,San Antonio Spurs,Cleveland Cavaliers,19:00,n,0,,,
+2025-03-27,Dallas Mavericks,Orlando Magic,19:00,n,0,,,
+2025-03-27,Indiana Pacers,Washington Wizards,19:00,n,0,,,
+2025-03-27,Atlanta Hawks,Miami Heat,19:30,n,0,,,
+2025-03-27,Los Angeles Lakers,Chicago Bulls,20:00,n,0,,,
+2025-03-27,Memphis Grizzlies,Oklahoma City Thunder,20:00,n,0,,,
+2025-03-27,Houston Rockets,Utah Jazz,21:00,n,0,,,
+2025-03-27,Portland Trail Blazers,Sacramento Kings,22:00,n,0,,,
+2025-03-28,Cleveland Cavaliers,Detroit Pistons,19:00,n,0,,,
+2025-03-28,Los Angeles Clippers,Brooklyn Nets,19:30,n,0,,,
+2025-03-28,Charlotte Hornets,Toronto Raptors,19:30,n,0,,,
+2025-03-28,New York Knicks,Milwaukee Bucks,20:00,n,0,,,
+2025-03-28,Phoenix Suns,Minnesota Timberwolves,20:00,n,0,,,
+2025-03-28,Golden State Warriors,New Orleans Pelicans,20:00,n,0,,,
+2025-03-28,Utah Jazz,Denver Nuggets,21:00,n,0,,,
+2025-03-29,Sacramento Kings,Orlando Magic,17:00,n,0,,,
+2025-03-29,Brooklyn Nets,Washington Wizards,19:00,n,0,,,
+2025-03-29,Miami Heat,Philadelphia 76ers,19:30,n,0,,,
+2025-03-29,Dallas Mavericks,Chicago Bulls,20:00,n,0,,,
+2025-03-29,Los Angeles Lakers,Memphis Grizzlies,20:00,n,0,,,
+2025-03-29,Indiana Pacers,Oklahoma City Thunder,20:00,n,0,,,
+2025-03-29,Boston Celtics,San Antonio Spurs,20:00,n,0,,,
+2025-03-30,Los Angeles Clippers,Cleveland Cavaliers,15:30,n,0,,,
+2025-03-30,Portland Trail Blazers,New York Knicks,18:00,n,0,,,
+2025-03-30,Atlanta Hawks,Milwaukee Bucks,19:00,n,0,,,
+2025-03-30,Detroit Pistons,Minnesota Timberwolves,19:00,n,0,,,
+2025-03-30,Charlotte Hornets,New Orleans Pelicans,19:00,n,0,,,
+2025-03-30,Golden State Warriors,San Antonio Spurs,19:00,n,0,,,
+2025-03-30,Toronto Raptors,Philadelphia 76ers,19:30,n,0,,,
+2025-03-30,Houston Rockets,Phoenix Suns,21:00,n,0,,,
+2025-03-31,Utah Jazz,Charlotte Hornets,19:00,n,0,,,
+2025-03-31,Sacramento Kings,Indiana Pacers,19:00,n,0,,,
+2025-03-31,Los Angeles Clippers,Orlando Magic,19:00,n,0,,,
+2025-03-31,Miami Heat,Washington Wizards,19:00,n,0,,,
+2025-03-31,Boston Celtics,Memphis Grizzlies,19:30,n,0,,,
+2025-03-31,Chicago Bulls,Oklahoma City Thunder,20:00,n,0,,,
+2025-03-31,Brooklyn Nets,Dallas Mavericks,20:30,n,0,,,
+2025-03-31,Houston Rockets,Los Angeles Lakers,22:00,n,0,,,
+2025-04-01,Portland Trail Blazers,Atlanta Hawks,19:30,n,0,,,
+2025-04-01,Philadelphia 76ers,New York Knicks,19:30,n,0,,,
+2025-04-01,Toronto Raptors,Chicago Bulls,20:00,n,0,,,
+2025-04-01,Golden State Warriors,Memphis Grizzlies,20:00,n,0,,,
+2025-04-01,Phoenix Suns,Milwaukee Bucks,20:00,n,0,,,
+2025-04-01,Orlando Magic,San Antonio Spurs,20:00,n,0,,,
+2025-04-01,Minnesota Timberwolves,Denver Nuggets,22:00,n,0,,,
+2025-04-02,New York Knicks,Cleveland Cavaliers,19:00,n,0,,,
+2025-04-02,Charlotte Hornets,Indiana Pacers,19:00,n,0,,,
+2025-04-02,Sacramento Kings,Washington Wizards,19:00,n,0,,,
+2025-04-02,Miami Heat,Boston Celtics,19:30,n,0,,,
+2025-04-02,Utah Jazz,Houston Rockets,20:00,n,0,,,
+2025-04-02,Detroit Pistons,Oklahoma City Thunder,20:00,n,0,,,
+2025-04-02,Atlanta Hawks,Dallas Mavericks,20:30,n,0,,,
+2025-04-02,San Antonio Spurs,Denver Nuggets,21:00,n,0,,,
+2025-04-02,New Orleans Pelicans,Los Angeles Clippers,22:00,n,0,,,
+2025-04-03,Orlando Magic,Washington Wizards,19:00,n,0,,,
+2025-04-03,Minnesota Timberwolves,Brooklyn Nets,19:30,n,0,,,
+2025-04-03,Memphis Grizzlies,Miami Heat,19:30,n,0,,,
+2025-04-03,Milwaukee Bucks,Philadelphia 76ers,19:30,n,0,,,
+2025-04-03,Portland Trail Blazers,Toronto Raptors,19:30,n,0,,,
+2025-04-03,Golden State Warriors,Los Angeles Lakers,22:00,n,0,,,
+2025-04-04,Sacramento Kings,Charlotte Hornets,19:00,n,0,,,
+2025-04-04,Utah Jazz,Indiana Pacers,19:00,n,0,,,
+2025-04-04,Phoenix Suns,Boston Celtics,19:30,n,0,,,
+2025-04-04,Detroit Pistons,Toronto Raptors,19:30,n,0,,,
+2025-04-04,Portland Trail Blazers,Chicago Bulls,20:00,n,0,,,
+2025-04-04,Oklahoma City Thunder,Houston Rockets,20:00,n,0,,,
+2025-04-04,Cleveland Cavaliers,San Antonio Spurs,20:00,n,0,,,
+2025-04-04,Denver Nuggets,Golden State Warriors,22:00,n,0,,,
+2025-04-04,Dallas Mavericks,Los Angeles Clippers,22:30,n,0,,,
+2025-04-04,New Orleans Pelicans,Los Angeles Lakers,22:30,n,0,,,
+2025-04-05,New York Knicks,Atlanta Hawks,15:00,n,0,,,
+2025-04-05,Memphis Grizzlies,Detroit Pistons,19:00,n,0,,,
+2025-04-05,Minnesota Timberwolves,Philadelphia 76ers,19:00,n,0,,,
+2025-04-05,Milwaukee Bucks,Miami Heat,20:00,n,0,,,
+2025-04-05,Dallas Mavericks,Los Angeles Clippers,22:30,n,0,,,
+2025-04-06,Chicago Bulls,Charlotte Hornets,13:00,n,0,,,
+2025-04-06,Toronto Raptors,Brooklyn Nets,15:30,n,0,,,
+2025-04-06,Los Angeles Lakers,Oklahoma City Thunder,15:30,n,0,,,
+2025-04-06,Utah Jazz,Atlanta Hawks,18:00,n,0,,,
+2025-04-06,Washington Wizards,Boston Celtics,18:00,n,0,,,
+2025-04-06,Sacramento Kings,Cleveland Cavaliers,18:00,n,0,,,
+2025-04-06,San Antonio Spurs,Portland Trail Blazers,18:00,n,0,,,
+2025-04-06,Phoenix Suns,New York Knicks,19:00,n,0,,,
+2025-04-06,Indiana Pacers,Denver Nuggets,20:00,n,0,,,
+2025-04-06,Houston Rockets,Golden State Warriors,20:30,n,0,,,
+2025-04-06,Milwaukee Bucks,New Orleans Pelicans,20:30,n,0,,,
+2025-04-07,Sacramento Kings,Detroit Pistons,19:00,n,0,,,
+2025-04-07,Philadelphia 76ers,Miami Heat,19:30,n,0,,,
+2025-04-08,Memphis Grizzlies,Charlotte Hornets,19:00,n,0,,,
+2025-04-08,Chicago Bulls,Cleveland Cavaliers,19:00,n,0,,,
+2025-04-08,Washington Wizards,Indiana Pacers,19:00,n,0,,,
+2025-04-08,Atlanta Hawks,Orlando Magic,19:00,n,0,,,
+2025-04-08,New Orleans Pelicans,Brooklyn Nets,19:30,n,0,,,
+2025-04-08,Boston Celtics,New York Knicks,19:30,n,0,,,
+2025-04-08,Minnesota Timberwolves,Milwaukee Bucks,20:00,n,0,,,
+2025-04-08,Los Angeles Lakers,Oklahoma City Thunder,20:00,n,0,,,
+2025-04-08,Golden State Warriors,Phoenix Suns,22:00,n,0,,,
+2025-04-08,San Antonio Spurs,Los Angeles Clippers,22:30,n,0,,,
+2025-04-09,Boston Celtics,Orlando Magic,19:00,n,0,,,
+2025-04-09,Philadelphia 76ers,Washington Wizards,19:00,n,0,,,
+2025-04-09,Los Angeles Lakers,Dallas Mavericks,19:30,n,0,,,
+2025-04-09,Charlotte Hornets,Toronto Raptors,19:30,n,0,,,
+2025-04-09,Miami Heat,Chicago Bulls,20:00,n,0,,,
+2025-04-09,Portland Trail Blazers,Utah Jazz,21:00,n,0,,,
+2025-04-09,San Antonio Spurs,Golden State Warriors,22:00,n,0,,,
+2025-04-09,Oklahoma City Thunder,Phoenix Suns,22:00,n,0,,,
+2025-04-09,Denver Nuggets,Sacramento Kings,22:00,n,0,,,
+2025-04-09,Houston Rockets,Los Angeles Clippers,22:30,n,0,,,
+2025-04-10,New York Knicks,Detroit Pistons,19:00,n,0,,,
+2025-04-10,Cleveland Cavaliers,Indiana Pacers,19:00,n,0,,,
+2025-04-10,Atlanta Hawks,Brooklyn Nets,19:30,n,0,,,
+2025-04-10,New Orleans Pelicans,Milwaukee Bucks,20:00,n,0,,,
+2025-04-10,Minnesota Timberwolves,Memphis Grizzlies,21:30,n,0,,,
+2025-04-11,Milwaukee Bucks,Detroit Pistons,19:00,n,0,,,
+2025-04-11,Orlando Magic,Indiana Pacers,19:00,n,0,,,
+2025-04-11,Atlanta Hawks,Philadelphia 76ers,19:00,n,0,,,
+2025-04-11,Charlotte Hornets,Boston Celtics,19:30,n,0,,,
+2025-04-11,Cleveland Cavaliers,New York Knicks,19:30,n,0,,,
+2025-04-11,Washington Wizards,Chicago Bulls,20:00,n,0,,,
+2025-04-11,Miami Heat,New Orleans Pelicans,20:00,n,0,,,
+2025-04-11,Toronto Raptors,Dallas Mavericks,20:30,n,0,,,
+2025-04-11,Memphis Grizzlies,Denver Nuggets,21:00,n,0,,,
+2025-04-11,Brooklyn Nets,Minnesota Timberwolves,21:00,n,0,,,
+2025-04-11,Oklahoma City Thunder,Utah Jazz,21:30,n,0,,,
+2025-04-11,San Antonio Spurs,Phoenix Suns,22:00,n,0,,,
+2025-04-11,Golden State Warriors,Portland Trail Blazers,22:00,n,0,,,
+2025-04-11,Los Angeles Clippers,Sacramento Kings,22:00,n,0,,,
+2025-04-11,Houston Rockets,Los Angeles Lakers,22:30,n,0,,,
+2025-04-13,Orlando Magic,Atlanta Hawks,13:00,n,0,,,
+2025-04-13,Charlotte Hornets,Boston Celtics,13:00,n,0,,,
+2025-04-13,New York Knicks,Brooklyn Nets,13:00,n,0,,,
+2025-04-13,Indiana Pacers,Cleveland Cavaliers,13:00,n,0,,,
+2025-04-13,Washington Wizards,Miami Heat,13:00,n,0,,,
+2025-04-13,Detroit Pistons,Milwaukee Bucks,13:00,n,0,,,
+2025-04-13,Chicago Bulls,Philadelphia 76ers,13:00,n,0,,,
+2025-04-13,Los Angeles Clippers,Golden State Warriors,15:30,n,0,,,
+2025-04-13,Denver Nuggets,Houston Rockets,15:30,n,0,,,
+2025-04-13,Dallas Mavericks,Memphis Grizzlies,15:30,n,0,,,
+2025-04-13,Utah Jazz,Minnesota Timberwolves,15:30,n,0,,,
+2025-04-13,Oklahoma City Thunder,New Orleans Pelicans,15:30,n,0,,,
+2025-04-13,Los Angeles Lakers,Portland Trail Blazers,15:30,n,0,,,
+2025-04-13,Phoenix Suns,Sacramento Kings,15:30,n,0,,,
+2025-04-13,Toronto Raptors,San Antonio Spurs,15:30,n,0,,,

@@ -1,0 +1,31 @@
+team_id,fullname,home_venue,city,state,logo,Conference,Division,bbreference_abbreviation
+ATL,Atlanta Hawks,State Farm Arena,Atlanta,Georgia,https://content.sportslogos.net/logos/6/220/full/8190_atlanta_hawks-primary-2021.png,E,Southeast,ATL
+BOS,Boston Celtics,TD Garden,Boston,Massachusetts,https://content.sportslogos.net/logos/6/213/full/boston_celtics_logo_primary_19977628.png,E,Atlantic,BOS
+BKN,Brooklyn Nets,Barclays Center,Brooklyn,New York,https://content.sportslogos.net/logos/6/3786/full/brooklyn_nets_logo_primary_2025_sportslogosnet-1501.png,E,Atlantic,BRK
+CHA,Charlotte Hornets,Spectrum Center,Charlotte,North Carolina,https://content.sportslogos.net/logos/6/5120/full/1926_charlotte__hornets_-primary-2015.png,E,Southeast,CHO
+CHI,Chicago Bulls,United Center,Chicago,Illinois,https://content.sportslogos.net/logos/6/221/full/chicago_bulls_logo_primary_19672598.png,E,Central,CHI
+CLE,Cleveland Cavaliers,Rocket Arena,Cleveland,Ohio,https://content.sportslogos.net/logos/6/222/full/cleveland_cavaliers_logo_primary_2023_sportslogosnet-5369.png,E,Central,CLE
+DAL,Dallas Mavericks,American Airlines Center,Dallas,Texas,https://content.sportslogos.net/logos/6/228/full/3463_dallas_mavericks-primary-2018.png,W,Southwest,DAL
+DEN,Denver Nuggets,Ball Arena,Denver,Colorado,https://content.sportslogos.net/logos/6/229/full/8926_denver_nuggets-primary-2019.png,W,Northwest,DEN
+DET,Detroit Pistons,Little Caesars Arena,Detroit,Michigan,https://content.sportslogos.net/logos/6/223/full/detroit_pistons_logo_primary_20185710.png,E,Central,DET
+GSW,Golden State Warriors,Chase Center,San Francisco,California,https://content.sportslogos.net/logos/6/235/full/3152_golden_state_warriors-primary-2020.png,W,Pacific,GSW
+HOU,Houston Rockets,Toyota Center,Houston,Texas,https://content.sportslogos.net/logos/6/230/full/6830_houston_rockets-primary-2020.png,W,Southwest,HOU
+IND,Indiana Pacers,Gainbridge Fieldhouse,Indianapolis,Indiana,https://content.sportslogos.net/logos/6/224/full/4812_indiana_pacers-primary-2018.png,E,Central,IND
+LAC,Los Angeles Clippers,Intuit Dome,Inglewood,California,https://content.sportslogos.net/logos/6/236/full/los_angeles_clippers_logo_primary_2025_sportslogosnet-5542.png,W,Pacific,LAC
+LAL,Los Angeles Lakers,Crypto.com Arena,Los Angeles,California,https://content.sportslogos.net/logos/6/237/full/los_angeles_lakers_logo_primary_2024_sportslogosnet-7324.png,W,Pacific,LAL
+MEM,Memphis Grizzlies,FedEx Forum,Memphis,Tennessee,https://content.sportslogos.net/logos/6/231/full/4373_memphis_grizzlies-primary-2019.png,W,Southwest,MEM
+MIA,Miami Heat,Kaseya Center,Miami,Florida,https://content.sportslogos.net/logos/6/214/full/burm5gh2wvjti3xhei5h16k8e.gif,E,Southeast,MIA
+MIL,Milwaukee Bucks,Fiserv Forum,Milwaukee,Wisconsin,https://content.sportslogos.net/logos/6/225/full/milwaukee_bucks_logo_primary_20165763.png,E,Central,MIL
+MIN,Minnesota Timberwolves,Target Center,Minneapolis,Minnesota,https://content.sportslogos.net/logos/6/232/full/9669_minnesota_timberwolves-primary-2018.png,W,Northwest,MIN
+NOP,New Orleans Pelicans,Smoothie King Center,New Orleans,Louisiana,https://content.sportslogos.net/logos/6/4962/full/new_orleans_pelicans_logo_primary_2024_sportslogosnet-9292.png,W,Southwest,NOP
+NYK,New York Knicks,Madison Square Garden,New York,New York,https://content.sportslogos.net/logos/6/216/full/new_york_knicks_logo_primary_2024_sportslogosnet-7170.png,E,Atlantic,NYK
+OKC,Oklahoma City Thunder,Paycom Center,Oklahoma City,Oklahoma,https://content.sportslogos.net/logos/6/2687/full/khmovcnezy06c3nm05ccn0oj2.png,W,Northwest,OKC
+ORL,Orlando Magic,Kia Center,Orlando,Florida,https://content.sportslogos.net/logos/6/217/full/orlando_magic_logo_primary_20117178.png,E,Southeast,ORL
+PHI,Philadelphia 76ers,Wells Fargo Center,Philadelphia,Pennsylvania,https://content.sportslogos.net/logos/6/218/full/7034_philadelphia_76ers-primary-2016.png,E,Atlantic,PHI
+PHX,Phoenix Suns,Footprint Center,Phoenix,Arizona,https://content.sportslogos.net/logos/6/238/full/phoenix_suns_logo_primary_20143696.png,W,Pacific,PHO
+POR,Portland Trail Blazers,Moda Center,Portland,Oregon,https://content.sportslogos.net/logos/6/239/full/9725_portland_trail_blazers-primary-2018.png,W,Northwest,POR
+SAC,Sacramento Kings,Golden 1 Center,Sacramento,California,https://content.sportslogos.net/logos/6/240/full/4043_sacramento_kings-primary-2017.png,W,Pacific,SAC
+SAS,San Antonio Spurs,Frost Bank Center,San Antonio,Texas,https://content.sportslogos.net/logos/6/233/full/2547_san_antonio_spurs-primary-2018.png,W,Southwest,SAS
+TOR,Toronto Raptors,Scotiabank Arena,Toronto,Ontario,https://content.sportslogos.net/logos/6/227/full/7024_toronto_raptors-primary-2021.png,E,Atlantic,TOR
+UTA,Utah Jazz,Delta Center,Salt Lake City,Utah,https://content.sportslogos.net/logos/6/234/full/utah_jazz_logo_primary_2023_sportslogosnet-8513.png,W,Northwest,UTA
+WAS,Washington Wizards,Capital One Arena,Washington D.C.,,https://content.sportslogos.net/logos/6/219/full/5671_washington_wizards-primary-2016.png,E,Southeast,WAS
